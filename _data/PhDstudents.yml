@@ -47,3 +47,14 @@
   research2: Transformers
   research3: Inverse problems
   research4:
+
+- name: Jeremy Carleton
+  photo: jeremy.jpg
+  info: Ph.D. Student
+  email: jcarleton@tamu.edu
+  number_research: 2
+  research1: Inference-time alignment of large language models
+  research2: Online learning
+  research3: 
+  research4:
+
