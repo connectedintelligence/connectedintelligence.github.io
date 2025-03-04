@@ -78,9 +78,9 @@ Jump to [faculty](#faculty), [master and bachelor students](#master-and-bachelor
 
 
 
-## Students
+## Ph.D. Students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.PhDstudents %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -131,6 +131,59 @@ Jump to [faculty](#faculty), [master and bachelor students](#master-and-bachelor
 </div>
 {% endif %}
 
+
+## M.S. Students
+{% assign number_printed = 0 %}
+{% for member in site.data.MSstudents %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  <ul style="overflow: hidden">
+
+  {% if member.number_research == 1 %}
+  <li> {{ member.research1 }} </li>
+  {% endif %}
+
+  {% if member.number_research == 2 %}
+  <li> {{ member.research1 }} </li>
+  <li> {{ member.research2 }} </li>
+  {% endif %}
+
+  {% if member.number_research == 3 %}
+  <li> {{ member.research1 }} </li>
+  <li> {{ member.research2 }} </li>
+  <li> {{ member.research3 }} </li>
+  {% endif %}
+
+  {% if member.number_research == 4 %}
+  <li> {{ member.research1 }} </li>
+  <li> {{ member.research2 }} </li>
+  <li> {{ member.research3 }} </li>
+  <li> {{ member.research4 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 ## Alumni
 
@@ -193,4 +246,4 @@ Jump to [faculty](#faculty), [master and bachelor students](#master-and-bachelor
 
 
 ## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+<a href="mailto:vickiewinston@tamu.edu">Ms. Vickie Winston</a> is helping us (and other groups) with administration.
