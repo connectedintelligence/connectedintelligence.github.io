@@ -2,62 +2,67 @@
   photo: KRNprofile2021-225x300.jpg
   info: Co-director, Professor
   email: krn@tamu.edu
-  number_educ: 1
-  education1: AI-native wireless networks, PHY/MAC, information theory
+  number_educ: 2
+  education1: AI-native wireless networks 
+  education2: PHY/MAC, information theory
   
 - name: Srinivas Shakkottai
   photo: Srinivas-1-150x150.jpg
   info: Co-director, Professor
   email: sshakkot@tamu.edu
-  number_educ: 1
-  education1: AI-native wireless networks, resource allocation, robotics
+  number_educ: 2
+  education1: AI-native wireless networks
+  education2: Resource allocation, Robotics
 
 - name: Jean-Francois Chamberland
   photo: Chamberland-Image-225x300.jpg
   info: Professor
   email: chmbrlnd@tamu.edu
-  number_educ: 1
-  education1: Signal processing, machine learning, AI-native wireless networks
+  number_educ: 2
+  education1: Statistical signal processing
+  education2: Machine learning, AI-native wireless networks
 
 - name: I-Hong Hou
   photo: hou-image-150x150.jpg
   info: Associate Professor
   email: hou@tamu.edu
-  number_educ: 1
-  education1: 
+  number_educ: 2
+  education1: Resource allocation
+  education2: MAC, AI-native wireless networks
 
 - name: Dileep Kalathil
   photo: kalathil-image.jpg
   info: Associate Professor
   email: kalathil@tamu.edu
   number_educ: 1
-  education1: 
+  education1: Reinforcement learning
+  education2: Artificial intelligence
 
 - name: Linda Katehi
   photo: katehi-image-225x300.jpg
   info: Professor, Member of the National Academy of Engineering
   email: katehi@tamu.edu
   number_educ: 2
-  education1: Electromagnetics, antennas, wireless communications
-  education2: 
+  education1: Electromagnetics, antennas
+  education2: Circuits
 
-- name: Maialen Ortego Larrazabal
-  photo: Maialen.png
-  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
-  email: b
-  number_educ: 2
-  education1: Master Leiden University
-  education2: BSc, University of the Basque Country
-  education3:
+- name: P.R. Kumar
+  photo: kumar-image-150x150.jpg
+  info: Professor, Member of the National Academy of Engineering
+  email: prk@tamu.edu
+  number_educ: 3
+  education1: Stochastic systems and control
+  education2: AI-native wireless networks
+  education3: Machine learning theory
   education4:
 
-- name: Sanghun Lee 이상헌
-  photo: Sanghun.jpg
-  info: PhD Student
-  email: b
+- name: Srikanth Saripalli
+  photo: saripalli-image-225x300.jpg
+  info: Professor
+  email: saripalli@tamu.edu
   number_educ: 2
-  education1: Master Yonsei with [Doohee Cho](http://physicsyonsei.kr/en/people/professor?idx=48)
-  education2: BSc, Yonsei University
+  education1: Robotics
+  education2: Autonomous systems
   education3:
   education4:
 
