@@ -34,10 +34,10 @@ Connected intelligent systems, supported over NextG communication and distribute
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Aggiebots-p1.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ApplicationawareORAN.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ApplicationawareORAN.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/srikanthimageexample.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/srikanthimageexample.jpg" alt="Slide 5" />
         </div>       
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
