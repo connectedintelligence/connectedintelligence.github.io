@@ -33,8 +33,8 @@
   info: Ph.D. Student
   email: fatemehdoudi@tamu.edu
   number_research: 2
-  research1: Transformers and In-context Learning
-  research2: Diffusion models
+  research1: Diffusion models
+  research2: Transformers and In-context Learning
   research3:
   research4:
 
@@ -42,8 +42,8 @@
   photo: mahdi.jpg
   info: Ph.D. Student
   email: mahdi.farahbakhsh@tamu.edu
-  number_research: 1
+  number_research: 3
   research1: Diffusion models
-  research2: 
-  research3:
+  research2: Transformers
+  research3: Inverse problems
   research4:
