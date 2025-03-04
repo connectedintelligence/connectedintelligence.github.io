@@ -1,10 +1,10 @@
-- name: Vishnu Kunde
-  photo: VishnuKunde.jpg
+- name: Ruowan Ji
+  photo: RuowanJi.jpg
   info: Ph.D. Student
-  email: vishnukunde@tamu.edu
+  email: ruowanji@tamu.edu
   number_research: 2
-  research1: LLMS for wireless communications
-  research2: Diffusion models
+  research1: Retreival augmentation for wireless communications
+  research2: Federated learning
   research3:
   research4:
 
@@ -16,4 +16,14 @@
   research1: Reinforcement Learning
   research2: Distributionally Robust Optimization
   research3: Reinforcement Learning from Human Feedback
+  research4:
+
+- name: Vishnu Kunde
+  photo: VishnuKunde.jpg
+  info: Ph.D. Student
+  email: vishnukunde@tamu.edu
+  number_research: 2
+  research1: LLMS for wireless communications
+  research2: Diffusion models
+  research3:
   research4:
