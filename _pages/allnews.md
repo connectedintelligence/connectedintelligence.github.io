@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Texas A&M Initiative on Connected Intelligence."
 sitemap: false
 permalink: /allnews.html
 ---
