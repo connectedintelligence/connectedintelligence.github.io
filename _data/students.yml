@@ -1,11 +1,10 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
-
+- name: Vishnu Kunde
+  photo: rock.jpg
+  info: Ph.D. Student
+  email: vishnukunde@tamu.edu
+  number_research: 2
+  research1: LLMS for wireless communications
+  research2: Diffusion models
+  research3:
+  research4:
 
