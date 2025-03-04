@@ -54,11 +54,25 @@ Connected intelligent systems, supported over NextG communication and distribute
   </a>
 </div>
 
+## Research Themes
+Our research activities are organized around the following cross-cutting research themes
 
+- Next-Generation communications and compute
+- Robotics and autonomy
+- Machine learning systems
+- System security
 
+## Applications
+Our research is inspired by applications to
+
+- Networked and Cloud Robotics
+- Open RAN, 6G Cellular
+- Augmented Reality
+- Smart Infrastructure
+- Smart manufacturing
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TAMU.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ARL.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TAMU.jpg" style="width: 70px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ARL.png" style="width: 250px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BCDC.svg" style="width: 120px">
 </figure>
