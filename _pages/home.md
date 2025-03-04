@@ -72,7 +72,7 @@ Our research is inspired by applications to
 - Smart manufacturing
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TAMU.jpg" style="width: 70px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ARL.png" style="width: 250px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_TAMU.jpg" style="width: 50px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ARL.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_BCDC.svg" style="width: 120px">
 </figure>

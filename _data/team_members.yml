@@ -12,39 +12,34 @@
   number_educ: 1
   education1: AI-native wireless networks, resource allocation, robotics
 
-- name: Yudai Sato
-  photo: Sato.jpeg
-  info: Postdoc, started September 2023
-  email: jwlee0421@postech.ac.kr
-  number_educ: 2
-  education1: PhD with [Yukio Hasegawa](https://www.issp.u-tokyo.ac.jp/maincontents/organization/labs/hasegawa_group_en.html) at the University of Tokyo
-  education2: Master, University of Tokyo
+- name: Jean-Francois Chamberland
+  photo: Chamberland-Image-225x300.jpg
+  info: Professor
+  email: chmbrlnd@tamu.edu
+  number_educ: 1
+  education1: Signal processing, machine learning, AI-native wireless networks
 
-- name: Thomas Gozlinski
-  photo: Thomas.jpg
-  info: Akademischer Rat, since November 2023
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, KIT, with [Wulf Wulfhekel](https://www.int.kit.edu/1941_701.php)
-  education2: MSc KIT
+- name: I-Hong Hou
+  photo: hou-image-150x150.jpg
+  info: Associate Professor
+  email: hou@tamu.edu
+  number_educ: 1
+  education1: 
 
-- name: Premakumar Yanda
-  photo: Yanda.png
-  info: Postdoc, since March 2025
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD, JNCASR, with A. Sundaresan
-  education2: MSc, Andhra University
+- name: Dileep Kalathil
+  photo: kalathil-image.jpg
+  info: Associate Professor
+  email: kalathil@tamu.edu
+  number_educ: 1
+  education1: 
 
-- name: Amber Mozes
-  photo: Amber.png
-  info: PhD Student, started September 2021
-  email: b
+- name: Linda Katehi
+  photo: katehi-image-225x300.jpg
+  info: Professor, Member of the National Academy of Engineering
+  email: katehi@tamu.edu
   number_educ: 2
-  education1: Master Applied Physics, TU Delft
-  education2: Casimir/Nanofront PhD fellowship
-  education3:
-  education4:
+  education1: Electromagnetics, antennas, wireless communications
+  education2: 
 
 - name: Maialen Ortego Larrazabal
   photo: Maialen.png
