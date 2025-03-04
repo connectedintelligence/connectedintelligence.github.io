@@ -1,17 +1,16 @@
 - name: Krishna Narayanan
-  photo: Milan1.jpg
-  info: Professor
+  photo: KRNprofile2021-225x300.jpg
+  info: Co-director, Professor
   email: krn@tamu.edu
   number_educ: 1
   education1: Ph.D., Georgia Institute of Technology
   
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Leader Leiden Branch, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+- name: Srinivas Shakkottai
+  photo: Srinivas-150x150.png
+  info: Co-director, Professor
+  email: sshakkot@tamu.edu
+  number_educ: 1
+  education1: Ph.D., University of Illinois
 
 - name: Yudai Sato
   photo: Sato.jpeg
