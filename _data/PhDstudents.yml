@@ -57,4 +57,13 @@
   research2: Online learning
   research3: 
   research4:
-
+  
+- name: Kaushik Valmeekam
+  photo: kaushik.jpg
+  info: Ph.D. Student
+  email: vcskaushik9@tamu.edu
+  number_research: 3
+  research1: Large Language models 
+  research2: Open-RAN
+  research3: Neural group testing
+  research4:
