@@ -1,10 +1,14 @@
-- title: "Equivalence of pseudogap and pairing energy in a cuprate high-temperature superconductor"
-  image: BSCCO_noise.png
-  description: What is the pseudogap and what is the relation between pseudogap and superconductivity? – This is likely the most discussed issue in quantum matter over the last three decades. We report a direct evidence for equivalence of pseudogap and onset energy for electron pairing with our state-of-art electron pair microscope. This may inspire hope for materials with higher Tc.
-  authors: Jiasen Niu, Maialen Ortego Larrazabal, Thomas Gozlinski, Yudai Sato, Koen M. Bastiaans, Tjerk Benschop, Jian-Feng Ge, Yaroslav M. Blanter, Genda Gu, Ingmar Swart, Milan P. Allan
+- title: "Transformers are Provably Optimal In-context Estimators for Wireless Communications"
+  image: ICET.png
+  description: The canonical communication problem of estimating transmitted symbols from received observations can be modelled as an in-context learning problem: Received observations are
+essentially a noisy function of transmitted symbols, and this function can be represented by an unknown parameter whose statistics
+depend on an (also unknown) latent context. We prove that, for a subclass of such problems, a single layer softmax attention transformer
+(SAT) computes the optimal solution of the above estimation problem in the limit of large prompt length. We also prove that
+the optimal configuration of such transformer is indeed the minimizer of the corresponding training loss.
+  authors: V. Kunde, V. Rajagopalan, C. S. K. Valmeekam, K. Narayanan, S. Shakkottai, D. Kalathil, J.-F. Chamberland
   link:
-    url: https://arxiv.org/abs/2409.15928
-    display: arXiv
+    url: https://arxiv.org/pdf/2311.00226
+    display: To appear in AISTATS 2025
   highlight: 1
 
 - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
