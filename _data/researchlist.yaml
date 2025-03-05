@@ -7,15 +7,6 @@
     display: To appear in AISTATS 2025
   highlight: 1
 
-- title: "Squeezed Random Khatri-Rao Product Codes"
-  image: CDMMMnew2.png
-  description: In coded distributed matrix multiplication, a master node wishes to compute large-scale matrix product with the help of several worker nodes, we proposed a class of codes to deal with this type of matrix multiplication, called Squeezed Random Khatri-Rao Product (RKRP) codes. We showed that squeezed RKRP codes are MDS with probability 1, and have optimial recovery thresholds with probability 1. 
-  authors: R. Ji, A. K. Pradhan, A. Heidarzadeh, K. Narayanan
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/9611422
-    display: IEEE Information Theory Workshop 2021 (ITW9611422)
-  highlight: 1
-
 - title: "LLMZip: Lossless Text Compression using Large Language Models"
   image: 1_LLMZip.png
   description: We provide new estimates of an asymptotic upper bound on the entropy of English using the large language model LLaMA-7B as a predictor for the next token given a window of past tokens. This estimate is significantly smaller than currently available estimates in \cite{cover1978convergent}, \cite{lutati2023focus}. A natural byproduct is an algorithm for lossless compression of English text which combines the prediction from the large language model with a lossless compression scheme. Preliminary results from limited experiments suggest that our scheme outperforms state-of-the-art text compression schemes such as BSC, ZPAQ, and paq8h.
@@ -41,6 +32,15 @@
   link:
     url:  https://ieeexplore.ieee.org/abstract/document/9771751
     display: IEEE Wireless Communications and Networking Conference (2022WCNC)
+  highlight: 1
+  
+- title: "Squeezed Random Khatri-Rao Product Codes"
+  image: CDMMMnew2.png
+  description: In coded distributed matrix multiplication, a master node wishes to compute large-scale matrix product with the help of several worker nodes, we proposed a class of codes to deal with this type of matrix multiplication, called Squeezed Random Khatri-Rao Product (RKRP) codes. We showed that squeezed RKRP codes are MDS with probability 1, and have optimial recovery thresholds with probability 1. 
+  authors: R. Ji, A. K. Pradhan, A. Heidarzadeh, K. Narayanan
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9611422
+    display: IEEE Information Theory Workshop 2021 (ITW9611422)
   highlight: 1
 
 - title: "Distributionally Robust Direct Preference Optimization"
