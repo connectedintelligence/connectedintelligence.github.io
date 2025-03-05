@@ -7,6 +7,15 @@
     display: To appear in AISTATS 2025
   highlight: 1
 
+- title: "Squeezed Random Khatri-Rao Product Codes"
+  image: ICET.png
+  description: In coded distributed matrix multiplication, a master node wishes to compute large-scale matrix product with the help of several worker nodes, we proposed a class of codes to deal with this distributed matrix multiplication, called Squeezed Random Khatri-Rao Product (RKRP) codes. We showed that squeezed RKRP codes are MDS with probability 1, and have optimial recovery thresholds with probability 1. 
+  authors: R. Ji, A. K. Pradhan, A. Heidarzadeh, K. Narayanan
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9611422
+    display: IEEE Information Theory Workshop 2021 (ITW9611422)
+  highlight: 1
+
 - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
   image: ShotNoise.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
