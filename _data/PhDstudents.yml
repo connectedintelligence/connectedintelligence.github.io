@@ -2,11 +2,11 @@
   photo: ruowanji.jpg
   info: Ph.D. Student
   email: ruowanji@tamu.edu
-  number_research: 3
+  number_research: 4
   research1: Retreival augmentation for wireless communications
   research2: Federated learning
   research3: Prompt Engineering for spectrum sensing
-  research4:
+  research4: Distributed Coded Matrix Multiplication
 
 - name: Zaiyan Xu
   photo: zaiyan-image.jpg
