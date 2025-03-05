@@ -16,6 +16,15 @@
     display: IEEE Information Theory Workshop 2021 (ITW9611422)
   highlight: 1
 
+- title: "Distributionally Robust Direct Preference Optimization"
+  image: drdpo.png
+  description: We propose two novel distributionally robust direct preference optimization (DPO) algorithms, Wasserstein DPO (WDPO) and Kullback-Leibler DPO (KLDPO), that mitigate alignment failures arising from shifting user preferences. We prove theoretical sample complexity guarantees for these algorithms and also demonstrate empirically that WDPO and KLDPO significantly improve alignment performance under preference distribution shifts.
+  authors: Z. Xu, S. Vemuri, K. Panaganti, D. Kalathil, R. Jain, D. Ramachandran
+  link:
+    url: https://arxiv.org/abs/2502.01930
+    display: arXiv Preprint
+  highlight: 1  
+
 - title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
   image: ShotNoise.png
   description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
