@@ -7,6 +7,15 @@
     display: To appear in AISTATS 2025
   highlight: 1
 
+- title: "Distributionally Robust Direct Preference Optimization"
+  image: drdpo.png
+  description: We propose two novel distributionally robust direct preference optimization (DPO) algorithms, Wasserstein DPO (WDPO) and Kullback-Leibler DPO (KLDPO), that mitigate large language model (LLM) alignment failures arising from shifting user preferences. We prove theoretical sample complexity guarantees for these algorithms and also demonstrate empirically that WDPO and KLDPO significantly improve alignment performance under preference distribution shifts.
+  authors: Z. Xu, S. Vemuri, K. Panaganti, D. Kalathil, R. Jain, D. Ramachandran
+  link:
+    url: https://arxiv.org/abs/2502.01930
+    display: arXiv Preprint
+  highlight: 1  
+
 - title: "LLMZip: Lossless Text Compression using Large Language Models"
   image: 1_LLMZip.png
   description: We show that English text is a lot more compressible than what was believed to be possible previously. Our lossless compression algorithm combines the prediction from modern large language models with arithmetic coding and compresses text to about 0.7~bits/character, outperforming state-of-the-art compressors like BSC and PAQ
@@ -24,16 +33,7 @@
     url: https://ieeexplore.ieee.org/abstract/document/10624979
     display: IEEE International Conference on Machine Learning for Communication and Networking (2024ICMLCN)
   highlight: 1
-  
-- title: "A Semi-Blind Decision Directed Iterative Channel Estimation and Decoding for LDPC Coded OFDM Systems"
-  image: 3_DDCED.png
-  description: We propose a semi-blind decision-directed joint channel estimation and decoding algorithm for low-density parity check (LDPC) coded Orthogonal Frequency Division Multiplexing (OFDM) systems. There are two novel aspects in our algorithm - (i) an enhanced semi-blind channel estimation algorithm that hypothesizes a small set of symbols as additional pilots and (ii) an edge strength-based metric to determine a small subset of decisions at the output of the LDPC decoder as being reliable. Our algorithm has an order of magnitude lower complexity than a recently proposed machine learning-based channel estimation algorithm, while their performances are comparable.
-  authors: C. S. K. Valmeekam, K. Narayanan
-  link:
-    url:  https://ieeexplore.ieee.org/abstract/document/9771751
-    display: IEEE Wireless Communications and Networking Conference (2022WCNC)
-  highlight: 1
-  
+
 - title: "Squeezed Random Khatri-Rao Product Codes"
   image: CDMMMnew2.png
   description: In coded distributed matrix multiplication, a master node wishes to compute large-scale matrix product with the help of several worker nodes, we proposed a class of codes to deal with this type of matrix multiplication, called Squeezed Random Khatri-Rao Product (RKRP) codes. We showed that squeezed RKRP codes are MDS with probability 1, and have optimial recovery thresholds with probability 1. 
@@ -43,62 +43,11 @@
     display: IEEE Information Theory Workshop 2021 (ITW9611422)
   highlight: 1
 
-- title: "Distributionally Robust Direct Preference Optimization"
-  image: drdpo.png
-  description: We propose two novel distributionally robust direct preference optimization (DPO) algorithms, Wasserstein DPO (WDPO) and Kullback-Leibler DPO (KLDPO), that mitigate large language model (LLM) alignment failures arising from shifting user preferences. We prove theoretical sample complexity guarantees for these algorithms and also demonstrate empirically that WDPO and KLDPO significantly improve alignment performance under preference distribution shifts.
-  authors: Z. Xu, S. Vemuri, K. Panaganti, D. Kalathil, R. Jain, D. Ramachandran
+- title: "A Semi-Blind Decision Directed Iterative Channel Estimation and Decoding for LDPC Coded OFDM Systems"
+  image: 3_DDCED.png
+  description: We propose a semi-blind decision-directed joint channel estimation and decoding algorithm for low-density parity check (LDPC) coded Orthogonal Frequency Division Multiplexing (OFDM) systems. There are two novel aspects in our algorithm - (i) an enhanced semi-blind channel estimation algorithm that hypothesizes a small set of symbols as additional pilots and (ii) an edge strength-based metric to determine a small subset of decisions at the output of the LDPC decoder as being reliable. Our algorithm has an order of magnitude lower complexity than a recently proposed machine learning-based channel estimation algorithm, while their performances are comparable.
+  authors: C. S. K. Valmeekam, K. Narayanan
   link:
-    url: https://arxiv.org/abs/2502.01930
-    display: arXiv Preprint
-  highlight: 1  
-
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
-  image: ShotNoise.png
-  description: Can mesoscopic shot noise experiments show the doubling of the charge carriers in a superconductor? Turns out, it's complicated. We investigated this in several different samples, and made predictions as to what is necessary to make this work.
-  authors: Jiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
-  link:
-    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001
-    display: Phys. Rev. Lett. 132, 076001 (Editors' Suggestion)
+    url:  https://ieeexplore.ieee.org/abstract/document/9771751
+    display: IEEE Wireless Communications and Networking Conference (2022WCNC)
   highlight: 1
-
-- title: "Single-electron charge transfer into putative Majorana and trivial modes in individual vortices"
-  image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41467-023-39109-w
-    display: Nature Communications 4, 3341 (2023)
-  highlight: 1
-  news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
-
-- title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
-  image: BSCCOgap.png
-  description: Why does cuprate superconductivity break down at a certain doping level? Using scanning tunneling spectroscopy we find that an emerging metallic matrix inside the superconducting state is responsible for the overall reduction of Tc and the superfluid density, while leaving the gapsize unchanged. The formation of the matrix is tied to a pair breaking process violating a core principle of mean-field theories.
-  authors: WO Tromp, T Benschop, J-F Ge, I Battisti, KM Bastiaans, D Chatzopoulos, A Vervloet, S Smit, E van Heumen, MS Golden, Y Huang, T Kondo, Y Yin, JE Hoffman, MA Sulangi, J Zaanen, MP Allan
-  link:
-    url: https://www.nature.com/articles/s41563-023-01497-1
-    display: Nature Materials 22, 703 (2023)
-  highlight: 1
-  news1: See [News and Views](https://www.nature.com/articles/s41563-023-01552-x) by Yu He.
-
-
-- title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
-  image: Pairs3.png
-  description: We use our atomic-scale scanning tunneling noise setup on a disordered superconductor, and discover a state above TC that, much like an ordinary metal, has no (pseudo)gap, but carries charge via paired electrons.
-  authors: KM Bastiaans, D Chatzopoulos, J-F Ge, D Cho, WO Tromp, JM van Ruitenbeek, MH Fischer, PJ de Visser, DJ Thoen, EFC Driessen, TM Klapwijk, MP Allan
-  link:
-    url: https://www.science.org/doi/10.1126/science.abe3987
-    display: Science 374, 608 (2021)
-  highlight: 1
-  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
-
-- title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
-  image: TBG_SL.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
-  link:
-    url: https://www.nature.com/articles/s41467-021-27646-1
-    display:  Nat Comm 13, 70 (2022)
-  highlight: 0
-  news2:
