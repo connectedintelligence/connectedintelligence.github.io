@@ -198,7 +198,7 @@ Jump to [faculty](#faculty), [master and bachelor students](#master-and-bachelor
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <h4>{{ member.name }},</h4> <i> Employment: {{ member.employment }}</i>
+  <h4>{{ member.name }}, Employment: {{ member.employment }}</h4>
   <ul style="overflow: hidden">
   </ul>
 </div>
