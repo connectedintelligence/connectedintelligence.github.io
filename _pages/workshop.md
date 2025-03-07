@@ -209,7 +209,7 @@ permalink: /workshop/
     <tr>
       <td>11:00 – 11:45 AM</td>
       <td>Panel</td>
-      <td>Panelists: Josepth Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussein (?)</td>
+      <td>Panelists: Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussein (?)</td>
     </tr>
     <tr>
       <td>11:45 – 12:30 PM</td>
