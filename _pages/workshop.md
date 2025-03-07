@@ -23,14 +23,20 @@ permalink: /workshop/
             margin: 20px 0;
             font-size: 14px;
             text-align: left;
+            table-layout: fixed;
         }
         th, td {
             padding: 12px;
             border: 1px solid #ddd;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
         }
         th {
             background-color: #500000;
             color: white;
+            position: sticky;
+            top: 0;
+            z-index: 1;
         }
         tr:nth-child(even) {
             background-color: #f2f2f2;
@@ -52,7 +58,7 @@ permalink: /workshop/
   </thead>
   <tbody>
     <tr>
-      <td> <b> March 24, 2025 </b> </td>
+      <td style="font-size: 16px;"> <b> March 24, 2025 </b> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -67,9 +73,7 @@ permalink: /workshop/
       <td>Coastas Georghiades, Vice President for Research</td>
     </tr>
     <tr>
-      <td> <b> NextG Communication Systems </b> </td>
-      <td> </td>
-      <td> </td>
+      <td colspan="3"> <b> NextG Communication Systems </b> </td>
     </tr>
     <tr>
       <td>8:45 – 9:15 AM</td>
@@ -102,9 +106,7 @@ permalink: /workshop/
       <td>Virginia Brown Atrium</td>
     </tr>
     <tr>
-      <td> <b> Autonomous Systems & Robotics </b> </td>
-      <td> </td>
-      <td> </td>
+      <td colspan="3"> <b> Autonomous Systems & Robotics </b> </td>
     </tr>
     <tr>
       <td>2:15 – 2:45 PM</td>
@@ -132,7 +134,7 @@ permalink: /workshop/
       <td>Casa Mangiare</td>
     </tr>
     <tr>
-      <td><b> March 25, 2025 </b> </td>
+      <td style="font-size: 16px;"> <b> March 25, 2025 </b> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -147,9 +149,7 @@ permalink: /workshop/
       <td>Narasimha Reddy, HOD, Dept. of ECE</td>
     </tr>
     <tr>
-      <td><b> AI/ML & Compute Systems </b> </td>
-      <td> </td>
-      <td> </td>
+      <td colspan="3"> <b> AI/ML & Compute Systems </b> </td>
     </tr>
     <tr>
       <td>8:45 – 9:15 AM</td>
