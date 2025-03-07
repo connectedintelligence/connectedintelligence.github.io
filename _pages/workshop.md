@@ -42,8 +42,6 @@ permalink: /workshop/
 </head>
 <body>
 
-    <h2>Workshop Schedule</h2>
-
     <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -134,8 +132,8 @@ permalink: /workshop/
       <td>Casa Mangiare</td>
     </tr>
     <tr>
-      <td>2025-03-25 00:00:00</td>
-      <td>Dinner</td>
+      <td><b> 2025-03-25 </b> </td>
+      <td> </td>
       <td> </td>
     </tr>
     <tr>
