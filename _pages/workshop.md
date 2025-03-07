@@ -11,7 +11,6 @@ permalink: /workshop/
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Workshop Schedule</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -22,7 +21,7 @@ permalink: /workshop/
             width: 100%;
             border-collapse: collapse;
             margin: 20px 0;
-            font-size: 18px;
+            font-size: 14px;
             text-align: left;
         }
         th, td {
@@ -30,7 +29,7 @@ permalink: /workshop/
             border: 1px solid #ddd;
         }
         th {
-            background-color: #4CAF50;
+            background-color: #500000;
             color: white;
         }
         tr:nth-child(even) {
