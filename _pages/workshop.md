@@ -52,7 +52,7 @@ permalink: /workshop/
   </thead>
   <tbody>
     <tr>
-      <td> </td>
+      <td> <b> March 24, 2025 </b> </td>
       <td> </td>
       <td> </td>
     </tr>
@@ -132,7 +132,7 @@ permalink: /workshop/
       <td>Casa Mangiare</td>
     </tr>
     <tr>
-      <td><b> 2025-03-25 </b> </td>
+      <td><b> March 25, 2025 </b> </td>
       <td> </td>
       <td> </td>
     </tr>
