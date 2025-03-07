@@ -7,9 +7,7 @@ permalink: /research/
 ---
 
 
-#  Research
-
-## Group highlights
+#  Research Projects
 
 
 {% assign number_printed = 0 %}
