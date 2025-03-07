@@ -1,5 +1,5 @@
 ---
-layout: homelay
+layout: page
 title: "Workshop Schedule"
 sitemap: false
 permalink: /workshop/
