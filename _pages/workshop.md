@@ -8,10 +8,32 @@ permalink: /workshop/
 Welcome to The first Texas A&M Connected Intelligence workshop! The workshop will take place on March 24th
 and March 25th on the Texas A&M University campus. 
 
+<style>
+details > summary {
+    cursor: pointer;
+    position: relative;
+    padding-right: 25px;
+}
+details > summary:hover {
+    color: #500000;
+}
+details > summary::after {
+    content: "▼";
+    position: absolute;
+    right: 0;
+    color: #500000;
+    font-size: 0.8em;
+    margin-top: 5px;
+}
+details[open] > summary::after {
+    content: "▲";
+}
+</style>
+
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
 <div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
 <details>
-<summary><h3 style="display: inline-block; margin: 0;">Venue</h3></summary>
+<summary><h3 style="display: inline-block; margin: 0;">Venue (Click to expand)</h3></summary>
 <div style="margin-top: 15px;">
 <strong>Zachry Engineering Building</strong><br>
 125 Spence Street<br>
@@ -34,7 +56,7 @@ and conference center.
 
 <div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
 <details>
-<summary><h3 style="display: inline-block; margin: 0;">Parking near venue</h3></summary>
+<summary><h3 style="display: inline-block; margin: 0;">Parking near venue (Click to expand)</h3></summary>
 <div style="margin-top: 15px;">
 <strong>Polo Road Garage</strong><br>
 <strong>Directions:</strong>
@@ -52,7 +74,7 @@ and conference center.
 
 <div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
 <details>
-<summary><h3 style="display: inline-block; margin: 0;">Hotel Information</h3></summary>
+<summary><h3 style="display: inline-block; margin: 0;">Hotel Information (Click to expand)</h3></summary>
 <div style="margin-top: 15px;">
 <strong>Texas A&M Hotel and Conference Center</strong><br>
 177 Joe Routt Boulevard<br>
@@ -69,7 +91,7 @@ To make reservations:
 
 <div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
 <details>
-<summary><h3 style="display: inline-block; margin: 0;">Hotel Parking</h3></summary>
+<summary><h3 style="display: inline-block; margin: 0;">Hotel Parking (Click to expand)</h3></summary>
 <div style="margin-top: 15px;">
 <strong>Gene Stallings Blvd Garage</strong><br>
 500 Gene Stallings Blvd <br> 
