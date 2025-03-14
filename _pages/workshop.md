@@ -8,50 +8,64 @@ permalink: /workshop/
 Welcome to The first Texas A&M Connected Intelligence workshop! The workshop will take place on March 24th
 and March 25th on the Texas A&M University campus. 
 
-### Venue
-**Zachry Engineering Building**  
-125 Spence Street  
-College Station, TX 77843
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
+<div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
+<h3>Venue</h3>
+<strong>Zachry Engineering Building</strong><br>
+125 Spence Street<br>
+College Station, TX 77843<br><br>
 
-**Driving Directions to Zachry Engineering Building:**
-1. From University Drive, turn onto Spence Street
-2. The Zachry Engineering Building will be on your right
-3. Main entrance faces Spence Street
+<strong>Driving Directions:</strong>
+<ol>
+<li>From University Drive, turn onto Spence Street</li>
+<li>The Zachry Engineering Building will be on your right</li>
+<li>Main entrance faces Spence Street</li>
+</ol>
 
-[View Zachry Building on Google Maps](https://goo.gl/maps/zachry)
+<a href="https://goo.gl/maps/zachry">View Zachry Building on Google Maps</a>
+</div>
 
-### Parking near Zachry Engineering Building - Polo garage
-If you are staying at the Texas A&M Hotel and Conference center, the workshop venue is within walking distance. 
-If you are driving to the venue, parking information can be found below
-**1. Polo Road Garage** (Alternative Option)
-- **Directions:**
-  1. From University Drive, turn onto Polo Road
-  2. Continue past the intersection with Wellborn Road
-  3. The garage entrance will be on your left
-- 5-7 minute walk to Zachry Engineering Building
-- [View Polo Garage on Maps](https://goo.gl/maps/polo)
+<div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
+<h3>Parking near Zachry Engineering Building</h3>
+<strong>Polo Road Garage</strong><br>
+<strong>Directions:</strong>
+<ol>
+<li>From University Drive, turn onto Polo Road</li>
+<li>Continue past the intersection with Wellborn Road</li>
+<li>The garage entrance will be on your left</li>
+</ol>
+- 5-7 minute walk to Zachry Engineering Building<br>
+- Paid parking required<br>
+<a href="https://goo.gl/maps/polo">View Polo Garage on Maps</a>
+</div>
 
-You will have to pay for parking.
+<div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
+<h3>Hotel Information</h3>
+<strong>Texas A&M Hotel and Conference Center</strong><br>
+177 Joe Routt Boulevard<br>
+College Station, TX 77840<br><br>
 
+To make reservations:
+<ul>
+<li>Call: (979) 260-2235</li>
+<li>Book Online: <a href="https://www.texasamhotelcc.com">www.texasamhotelcc.com</a></li>
+<li>Reference Group: "TICI Workshop 2025" for special conference rates</li>
+</ul>
+</div>
 
-### Hotel Information
-**Texas A&M Hotel and Conference Center**  
-177 Joe Routt Boulevard  
-College Station, TX 77840
-
-The Texas A&M Hotel and Conference Center is conveniently located in the heart of campus, within walking distance to the workshop venue. To make reservations:
-- Call: (979) 260-2235
-- Book Online: [www.texasamhotelcc.com](https://www.texasamhotelcc.com)
-- Reference Group: "TICI Workshop 2025" for special conference rates
-
-Hotel parking is at 
-**1. Gene Stallings Blvd Garage** 
-- **Directions:**
-  1. From University Drive, turn onto Throckmorton Street
-  2. Turn right onto Gene Stallings Boulevard
-  3. The parking garage will be on your right
-- Short walking distance to Zachry Engineering Building
-- [View Gene Stallings Garage on Maps](https://goo.gl/maps/7JKPGKGKGqQ2)
+<div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
+<h3>Hotel Parking</h3>
+<strong>Gene Stallings Blvd Garage</strong><br>
+<strong>Directions:</strong>
+<ol>
+<li>From University Drive, turn onto Throckmorton Street</li>
+<li>Turn right onto Gene Stallings Boulevard</li>
+<li>The parking garage will be on your right</li>
+</ol>
+- Short walking distance to Zachry Engineering Building<br>
+<a href="https://goo.gl/maps/7JKPGKGKGqQ2">View Gene Stallings Garage on Maps</a>
+</div>
+</div>
 
 ### Workshop Schedule
 {% raw %}
