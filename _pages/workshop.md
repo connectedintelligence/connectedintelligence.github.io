@@ -24,7 +24,8 @@ College Station, TX 77843<br><br>
 
 <a href="https://goo.gl/maps/zachry">View Zachry Building on Google Maps</a>
 
-<strong> Note: </strong> Zachry Engineering Building is within walking distance from the Texsa A&M Hotel.
+<strong> Note: </strong> Zachry Engineering Building is within walking distance from the Texas A&M Hotel 
+and conference center.
 
 </div>
 
