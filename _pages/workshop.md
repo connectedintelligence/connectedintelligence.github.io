@@ -236,7 +236,7 @@ College Station, TX 77844 <br>
     <tr>
       <td>11:00 – 11:45 AM</td>
       <td>Panel</td>
-      <td>Panelists: Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussein (?)</td>
+      <td>Panelists: Stefan Adalbjornsson, Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussein (?)</td>
     </tr>
     <tr>
       <td>11:45 – 12:30 PM</td>
