@@ -10,7 +10,9 @@ and March 25th on the Texas A&M University campus.
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 20px 0;">
 <div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
-<h3>Venue</h3>
+<details>
+<summary><h3 style="display: inline-block; margin: 0;">Venue</h3></summary>
+<div style="margin-top: 15px;">
 <strong>Zachry Engineering Building</strong><br>
 125 Spence Street<br>
 College Station, TX 77843<br><br>
@@ -26,11 +28,14 @@ College Station, TX 77843<br><br>
 
 <strong> Note: </strong> Zachry Engineering Building is within walking distance from the Texas A&M Hotel 
 and conference center.
-
+</div>
+</details>
 </div>
 
 <div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
-<h3>Parking near venue </h3>
+<details>
+<summary><h3 style="display: inline-block; margin: 0;">Parking near venue</h3></summary>
+<div style="margin-top: 15px;">
 <strong>Polo Road Garage</strong><br>
 <strong>Directions:</strong>
 <ol>
@@ -42,9 +47,13 @@ and conference center.
 - Paid parking required<br>
 <a href="https://goo.gl/maps/polo">View Polo Garage on Maps</a>
 </div>
+</details>
+</div>
 
 <div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
-<h3>Hotel Information</h3>
+<details>
+<summary><h3 style="display: inline-block; margin: 0;">Hotel Information</h3></summary>
+<div style="margin-top: 15px;">
 <strong>Texas A&M Hotel and Conference Center</strong><br>
 177 Joe Routt Boulevard<br>
 College Station, TX 77840<br><br>
@@ -55,15 +64,21 @@ To make reservations:
 <li>Book Online: <a href="https://www.texasamhotelcc.com">www.texasamhotelcc.com</a></li>
 </ul>
 </div>
+</details>
+</div>
 
 <div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
-<h3>Hotel Parking</h3>
+<details>
+<summary><h3 style="display: inline-block; margin: 0;">Hotel Parking</h3></summary>
+<div style="margin-top: 15px;">
 <strong>Gene Stallings Blvd Garage</strong><br>
 500 Gene Stallings Blvd <br> 
 College Station, TX 77844 <br>
 <strong>Directions:</strong>
 <a href="https://goo.gl/maps/7JKPGKGKGqQ2">View Gene Stallings Garage on Maps</a>
 - Hotel is adjacent to the parking garage <br>
+</div>
+</details>
 </div>
 </div>
 
