@@ -197,7 +197,7 @@ College Station, TX 77844 <br>
     <tr>
       <td>11:00 – 11:45 AM</td>
       <td>Panel</td>
-      <td>Panelists: JunYi Li (Qualcomm), Kamakshi Sridhar (Mavenir), Balaji Ragothaman (Keysight)</td>
+      <td>Panelists: JunYi Li (Qualcomm), Kamakshi Sridhar (Mavenir), Srinivas Shakkottai, and Sabit Ekin</td>
     </tr>
     <tr>
       <td>12:00 – 2:00 PM</td>
