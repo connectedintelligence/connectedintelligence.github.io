@@ -59,14 +59,11 @@ To make reservations:
 <div style="border: 1px solid #ddd; padding: 15px; background-color: #f9f9f9;">
 <h3>Hotel Parking</h3>
 <strong>Gene Stallings Blvd Garage</strong><br>
+500 Gene Stallings Blvd <br> 
+College Station, TX 77844 <br>
 <strong>Directions:</strong>
-<ol>
-<li>From University Drive, turn onto Throckmorton Street</li>
-<li>Turn right onto Gene Stallings Boulevard</li>
-<li>The parking garage will be on your right</li>
-</ol>
-- Short walking distance to Zachry Engineering Building<br>
 <a href="https://goo.gl/maps/7JKPGKGKGqQ2">View Gene Stallings Garage on Maps</a>
+- Hotel is adjacent to the parking garage <br>
 </div>
 </div>
 
