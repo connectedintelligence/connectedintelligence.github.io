@@ -1,10 +1,59 @@
 ---
 layout: page
-title: "Workshop Schedule"
+title: "2025 TICI Workshop - March 24 and 25"
 sitemap: false
 permalink: /workshop/
 ---
 
+Welcome to The first Texas A&M Connected Intelligence workshop! The workshop will take place on March 24th
+and March 25th on the Texas A&M University campus. 
+
+### Venue
+**Zachry Engineering Building**  
+125 Spence Street  
+College Station, TX 77843
+
+**Driving Directions to Zachry Engineering Building:**
+1. From University Drive, turn onto Spence Street
+2. The Zachry Engineering Building will be on your right
+3. Main entrance faces Spence Street
+
+[View Zachry Building on Google Maps](https://goo.gl/maps/zachry)
+
+### Parking near Zachry Engineering Building - Polo garage
+If you are staying at the Texas A&M Hotel and Conference center, the workshop venue is within walking distance. 
+If you are driving to the venue, parking information can be found below
+**1. Polo Road Garage** (Alternative Option)
+- **Directions:**
+  1. From University Drive, turn onto Polo Road
+  2. Continue past the intersection with Wellborn Road
+  3. The garage entrance will be on your left
+- 5-7 minute walk to Zachry Engineering Building
+- [View Polo Garage on Maps](https://goo.gl/maps/polo)
+
+You will have to pay for parking.
+
+
+### Hotel Information
+**Texas A&M Hotel and Conference Center**  
+177 Joe Routt Boulevard  
+College Station, TX 77840
+
+The Texas A&M Hotel and Conference Center is conveniently located in the heart of campus, within walking distance to the workshop venue. To make reservations:
+- Call: (979) 260-2235
+- Book Online: [www.texasamhotelcc.com](https://www.texasamhotelcc.com)
+- Reference Group: "TICI Workshop 2025" for special conference rates
+
+Hotel parking is at 
+**1. Gene Stallings Blvd Garage** 
+- **Directions:**
+  1. From University Drive, turn onto Throckmorton Street
+  2. Turn right onto Gene Stallings Boulevard
+  3. The parking garage will be on your right
+- Short walking distance to Zachry Engineering Building
+- [View Gene Stallings Garage on Maps](https://goo.gl/maps/7JKPGKGKGqQ2)
+
+### Workshop Schedule
 {% raw %}
 <table>
 <html lang="en">
