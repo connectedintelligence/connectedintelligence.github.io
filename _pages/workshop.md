@@ -52,7 +52,6 @@ To make reservations:
 <ul>
 <li>Call: (979) 260-2235</li>
 <li>Book Online: <a href="https://www.texasamhotelcc.com">www.texasamhotelcc.com</a></li>
-<li>Reference Group: "TICI Workshop 2025" for special conference rates</li>
 </ul>
 </div>
 
