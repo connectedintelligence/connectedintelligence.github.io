@@ -52,10 +52,10 @@
   info: Ph.D. Student
   email: saratb@tamu.edu
   number_research: 4
-  research1: Reinforcement learning from human feedback
-  research2: Online learning and Multi-Armed Bandits
-  research3: Stochastic Analysis
-  research4: Reinforcement Learning
+  research1: Reinforcement Learning
+  research2: Large language models
+  research3: Online learning and Multi-Armed Bandits
+  research4: Stochastic Analysis 
 
 - name: Jeremy Carleton
   photo: jeremy.png
