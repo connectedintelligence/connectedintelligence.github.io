@@ -47,6 +47,16 @@
   research3: Inverse problems
   research4:
 
+- name: Sarat Chandra Bobbili
+  photo: sarat.png
+  info: Ph.D. Student
+  email: saratb@tamu.edu
+  number_research: 1
+  research1: Reinforcement learning from human feedback
+  research2: 
+  research3: 
+  research4:
+
 - name: Jeremy Carleton
   photo: jeremy.png
   info: Ph.D. Student
