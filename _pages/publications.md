@@ -15,8 +15,6 @@ permalink: /publications/
 
 - **W.-Y. Zhao, H.-Y. Chen, T. Liu, R. Tuo, and C. Tian.** “From deep additive kernel learning to last-layer Bayesian neural networks via induced prior approximation.” In *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*, Apr. 2025.
 
-*(Additional 2025 publications by these authors are in press/under review as of this list.)*
-
 ## 2024
 
 - **Sapana Chaudhary, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai.** “Risk‐Averse Finetuning of Large Language Models.” In *Advances in Neural Information Processing Systems 37 (NeurIPS 2024)*, Dec. 2024.
@@ -45,8 +43,6 @@ permalink: /publications/
 
 - **Karthikeyan Shanmugam and Srinivas Shakkottai.** “A Lyapunov Theory for Finite-Sample Guarantees of Markovian Bandits.” *Transactions on Machine Learning Research (TMLR)*, Nov. 2024.
 
-*(Note: Some 2024 publications above are listed as “accepted” and will be published in 2025 issues or proceedings.)*
-
 ## 2023
 
 - **Zaiyan Xu, Kishan Panaganti, Dileep Kalathil.** “Improved Sample Complexity Bounds for Distributionally Robust Reinforcement Learning.” In *Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*, pp. 9728–9754, Apr. 2023.
@@ -69,7 +65,6 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
