@@ -191,8 +191,8 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>10:30 – 11:00 AM</td>
-      <td>Kamakshi Sridhar</td>
-      <td>Mavenir</td>
+      <td>Milap Majumdar</td>
+      <td>AT&T</td>
     </tr>
     <tr>
       <td>11:00 – 11:45 AM</td>
@@ -220,7 +220,7 @@ College Station, TX 77844 <br>
     <tr>
       <td>3:45 – 4:15 PM</td>
       <td>Ajay Gummala</td>
-      <td>Startup</td>
+      <td>Bedrock Robotics </td>
     </tr>
     <tr>
       <td>4:15 – 5:00 PM</td>
