@@ -192,12 +192,12 @@ College Station, TX 77844 <br>
     <tr>
       <td>10:30 – 11:00 AM</td>
       <td>Milap Majumdar</td>
-      <td>AT&T</td>
+      <td>AT&T Labs</td>
     </tr>
     <tr>
       <td>11:00 – 11:45 AM</td>
       <td>Panel</td>
-      <td>Panelists: JunYi Li (Qualcomm), Srinivas Shakkottai, and Sabit Ekin</td>
+      <td>Panelists: Junyi Li, Milap Majmundar, Srinivas Shakkottai, Michael Fox</td>
     </tr>
     <tr>
       <td>12:00 – 2:00 PM</td>
@@ -209,8 +209,8 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>2:15 – 2:45 PM</td>
-      <td>Stuart Young</td>
-      <td>DARPA</td>
+      <td>Craig Robinson</td>
+      <td>Waymo</td>
     </tr>
     <tr>
       <td>3:00 – 3:30 PM</td>
@@ -225,7 +225,7 @@ College Station, TX 77844 <br>
     <tr>
       <td>4:15 – 5:00 PM</td>
       <td>Panel</td>
-      <td>Panelists: Ajay Gummala, Stuart Young, Swaminathan Gopalaswamy, Jason O'Kane(?)</td>
+      <td>Panelists: Ajay Gummalla, Craig Robinson, Swaminathan Gopalaswamy, Dylan Shell, Jason O'Kane</td>
     </tr>
     <tr>
       <td>6:00 PM-8:00PM</td>
@@ -273,7 +273,7 @@ College Station, TX 77844 <br>
     <tr>
       <td>11:00 – 11:45 AM</td>
       <td>Panel</td>
-      <td>Panelists: Stefan Adalbjornsson, Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussein (?)</td>
+      <td>Panelists: Stefan Adalbjornsson, Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussein</td>
     </tr>
     <tr>
       <td>11:45 – 12:30 PM</td>
