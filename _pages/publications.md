@@ -51,6 +51,18 @@ permalink: /publications/
 
 - **Karthikeyan Shanmugam and Srinivas Shakkottai.** “A Lyapunov Theory for Finite-Sample Guarantees of Markovian Bandits.” *Transactions on Machine Learning Research (TMLR)*, Nov. 2024.
 
+- **Sandesh Rao Mattu, Imran Ali Khan, Venkatesh Khammammetti, Beyza Dabak, Saif Khan Mohammed, Krishna Narayanan, Robert Calderbank.** "Delay-Doppler Signal Processing with Zadoff-Chu Sequences", *arXiv preprint arXiv:2412.04295*, 2024.
+
+- **Patrick Agostini, Jean-Francois Chamberland, Federico Clazzer, Johannes Dommel, Gianluigi Liva, Andrea Munari, Krishna Narayanan, Yury Polyanskiy, Slawomir Stanczak, Zoran Utkovski.** “Enhancements to the 5G-NR 2-Step RACH: an Unsourced Multiple Access Perspective.” In *2024 IEEE Conference on Standards for Communications and Networking (CSCN)*, pp. 32–35, Nov. 2024.
+
+- **Jamison R. Ebert, Jean-Francois Chamberland, Krishna R. Narayanan.** “Sparse Regression LDPC Codes.” *IEEE Transactions on Information Theory*, Nov. 2024.
+
+- **Yu-Shin Huang, Peter Just, Krishna Narayanan, Chao Tian.** “OD-Stega: LLM-based near-imperceptible steganography via optimized distributions.” *arXiv preprint arXiv:2410.04328*, Oct. 2024.
+
+- **Jamison R. Ebert, Jean-Francois Chamberland, Krishna R. Narayanan.** “Multi-User SR-LDPC Codes.” *arXiv preprint arXiv:2408.11165*, Aug. 2024.
+
+- **Bobak Nazer, Krishna Narayanan.** “Computation Selection: Scheduling Users to Enable Over-the-Air Federated Learning.” In *2024 IEEE International Symposium on Information Theory (ISIT)*, pp. 1635–1640, July 2024.
+
 ## 2023
 
 - **Jena, Amit, Dileep Kalathil, and Le Xie.** “Meta-learning-based adaptive stability certificates for dynamical systems.” In Proceedings of the AAAI conference on artificial intelligence, vol. 38, no. 11, pp. 12801-12809. 2024.
