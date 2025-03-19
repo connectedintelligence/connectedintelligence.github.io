@@ -19,7 +19,7 @@
   highlight: 1  
   
 - title: "Multi-Objective Alignment of Diffusion Model with Reverse-Time Drift Blending"
-  image: ICET.png
+  image: DB.png
   description:  We propose DiffusionBlend which enables test-time alignment of Diffusion Models to user-defined weights for objectives and regularization without additional fine-tuning. DiffusionBlend leverages the closed-form solution of regularized fine-tuning to combine pre-finetuned drift terms for individual reward functions at test time, guided by user-specified objectives and regularization weights
   highlight: 1
   
