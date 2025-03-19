@@ -9,11 +9,11 @@ permalink: /publications/
 
 ## 2025
 
-- **Saj, Vishnu, Bochan Lee, Dileep Kalathil, and Moble Benedict.** “Robust Reinforcement Learning Control for Vision-Based Ship Landing of VTOL-UAVs.” Journal of the American Helicopter Society (2025).
+- **Saj, Vishnu, Bochan Lee, Dileep Kalathil, and Moble Benedict.** “Robust Reinforcement Learning Control for Vision-Based Ship Landing of VTOL-UAVs.” *Journal of the American Helicopter Society* (2025).
 
-- **Muthirayan, Deepan, Dileep Kalathil, and Pramod P. Khargonekar.** “Meta-learning online control for linear dynamical systems.” IEEE Transactions on Automatic Control (2025).
+- **Muthirayan, Deepan, Dileep Kalathil, and Pramod P. Khargonekar.** “Meta-learning online control for linear dynamical systems.” *IEEE Transactions on Automatic Control* (2025).
 
-- **Xu, Zaiyan, Sushil Vemuri, Kishan Panaganti, Dileep Kalathil, Rahul Jain, and Deepak Ramachandran.** “Distributionally Robust Direct Preference Optimization.” arXiv preprint arXiv:2502.01930 (2025).
+- **Xu, Zaiyan, Sushil Vemuri, Kishan Panaganti, Dileep Kalathil, Rahul Jain, and Deepak Ramachandran.** “Distributionally Robust Direct Preference Optimization.” *arXiv preprint arXiv:2502.01930* (2025).
   
 - **Vishnu Teja Kunde, Vicram Rajagopalan, Chandra S. K. Valmeekam, Krishna R. Narayanan, Srinivas Shakkottai, Dileep Kalathil, Jean-François Chamberland.** “Transformers are Provably Optimal In-context Estimators for Wireless Communications.” In *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*, Apr. 2025.
 
@@ -67,7 +67,7 @@ permalink: /publications/
 
 - **Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.** “Distributionally robust behavioral cloning for robust imitation learning.” In *2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 1342-1347. IEEE, 2023.
 
-- **Zaiyan Xu, Kishan Panaganti, Dileep Kalathil.** “Improved Sample Complexity Bounds for Distributionally Robust Reinforcement Learning.” In *Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*, pp. 9728–9754, Apr. 2023.
+- **Zaiyan Xu, Kishan Panaganti, Dileep Kalathil.** “Improved Sample Complexity Bounds for Distributionally Robust Reinforcement Learning.” In *Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*, pp. 9728-9754. PMLR, 2023.
 
 - **Ruida Zhou, Tao Liu, Dileep Kalathil, P. R. Kumar, Chao Tian.** “Natural Actor-Critic for Robust Reinforcement Learning with Function Approximation.” In *Advances in Neural Information Processing Systems 36 (NeurIPS 2023)*, Dec. 2023.
 
