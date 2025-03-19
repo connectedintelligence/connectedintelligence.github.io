@@ -15,10 +15,6 @@ permalink: /publications/
 
 - **W.-Y. Zhao, H.-Y. Chen, T. Liu, R. Tuo, and C. Tian.** “From deep additive kernel learning to last-layer Bayesian neural networks via induced prior approximation.” In *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*, Apr. 2025.
 
-- **Chao Tian, Jun Chen, Krishna Narayanan.** "Source-Channel Separation Theorems for Distortion Perception Coding", *arXiv preprint arXiv:2501.17706*, 2025.
-
-- **Yu-Shin Huang, Chao Tian, Krishna Narayanan, Lizhong Zheng.** "Relatively-Secure LLM-Based Steganography via Constrained Markov Decision Processes", *arXiv preprint arXiv:2502.01827*, 2025.
-
 ## 2024
 
 - **Sapana Chaudhary, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai.** “Risk‐Averse Finetuning of Large Language Models.” In *Advances in Neural Information Processing Systems 37 (NeurIPS 2024)*, Dec. 2024.
