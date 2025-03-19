@@ -1,7 +1,7 @@
 ---
 title: "TICI - Home"
 layout: homelay
-excerpt: "Texas A&M Initiative on Connected Intelligence"
+excerpt: "Texas A&M Initiative for Connected Intelligence"
 sitemap: false
 permalink: /
 ---
