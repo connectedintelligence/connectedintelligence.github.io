@@ -45,6 +45,10 @@ permalink: /publications/
 
 ## 2023
 
+- **Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.** “Bridging distributionally robust learning and offline rl: An approach to mitigate distribution shift and partial data coverage.” arXiv preprint arXiv:2310.18434 (2023).
+
+- **Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.** “Distributionally robust behavioral cloning for robust imitation learning.” In *2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 1342-1347. IEEE, 2023.
+
 - **Zaiyan Xu, Kishan Panaganti, Dileep Kalathil.** “Improved Sample Complexity Bounds for Distributionally Robust Reinforcement Learning.” In *Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*, pp. 9728–9754, Apr. 2023.
 
 - **Rui-da Zhou, Tao Liu, Dileep Kalathil, P. R. Kumar, Chao Tian.** “Natural Actor-Critic for Robust Reinforcement Learning with Function Approximation.” In *Advances in Neural Information Processing Systems 36 (NeurIPS 2023)*, Dec. 2023.
