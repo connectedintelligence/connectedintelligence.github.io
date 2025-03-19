@@ -73,6 +73,8 @@ permalink: /publications/
 
 - **Bobak Nazer, Krishna Narayanan.** “Computation Selection: Scheduling Users to Enable Over-the-Air Federated Learning.” In *2024 IEEE International Symposium on Information Theory (ISIT)*, pp. 1635–1640, July 2024.
 
+- ​**An, Qing, Divyanshu Pandey, Rahman Doost-Mohammady, Ashutosh Sabharwal, and Srinivas Shakkottai.** "Helix: A RAN Slicing Based Scheduling Framework for Massive MIMO Networks." Proceedings of the ACM on Networking 2, no. CoNEXT4 (2024): 1-22.​
+
 ## 2023
 
 - **Jena, Amit, Dileep Kalathil, and Le Xie.** “Meta-learning-based adaptive stability certificates for dynamical systems.” In *Proceedings of the AAAI conference on artificial intelligence*, vol. 38, no. 11, pp. 12801-12809. 2024.
