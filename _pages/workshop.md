@@ -219,7 +219,7 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>3:45 – 4:15 PM</td>
-      <td>Ajay Gummala</td>
+      <td>Ajay Gummalla</td>
       <td>Bedrock Robotics </td>
     </tr>
     <tr>
