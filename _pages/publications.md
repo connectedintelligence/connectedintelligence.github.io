@@ -25,7 +25,7 @@ permalink: /publications/
 
 ## 2024
 
-- **​Bura, Archana, Ushasi Ghosh, Dinesh Bharadia, and Srinivas Shakkottai.** “Realtime Neural Whittle Indexing for Scalable Service Guarantees in NextG Cellular Networks.” In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 1823–1825, 2024.
+- **​Bura, Archana, Ushasi Ghosh, Dinesh Bharadia, and Srinivas Shakkottai.** “Realtime Neural Whittle Indexing for Scalable Service Guarantees in NextG Cellular Networks.” In Proceedings of the *30th Annual International Conference on Mobile Computing and Networking*, 1823–1825, 2024.
 
 - **Sapana Chaudhary, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai.** “Risk‐Averse Finetuning of Large Language Models.” In *Advances in Neural Information Processing Systems 37 (NeurIPS 2024)*, Dec. 2024.
 
