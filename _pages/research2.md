@@ -3,7 +3,7 @@ title: "TICI - Publications"
 layout: gridlay
 excerpt: "TICI -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /research2/
 ---
 
 
