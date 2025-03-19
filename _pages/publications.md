@@ -15,6 +15,8 @@ permalink: /publications/
 
 - **Xu, Zaiyan, Sushil Vemuri, Kishan Panaganti, Dileep Kalathil, Rahul Jain, and Deepak Ramachandran.** “Distributionally Robust Direct Preference Optimization.” *arXiv preprint arXiv:2502.01930* (2025).
   
+- **Jeremy Carleton, Prathik Vijaykumar, Divyanshu Saxena, Dheeraj Narasimha, Srinivas Shakkottai, Aditya Akella.** “CONGO: Compressive Online Gradient Optimization.” In *Proceedings of the 13th International Conference on Learning Representations (ICLR 2025)*, Apr. 2025.
+
 - **Vishnu Teja Kunde, Vicram Rajagopalan, Chandra S. K. Valmeekam, Krishna R. Narayanan, Srinivas Shakkottai, Dileep Kalathil, Jean-François Chamberland.** “Transformers are Provably Optimal In-context Estimators for Wireless Communications.” In *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*, Apr. 2025.
 
 - **S. K. Ankireddy, H. Kim, and K. R. Narayanan.** “LIGHTCODE: Light Analytical and Neural Codes for Channels with Feedback.” *IEEE Journal on Selected Areas in Communications*, to appear in vol. 43, 2025.
