@@ -9,6 +9,10 @@ permalink: /publications/
 
 ## 2025
 
+- **Muthirayan, Deepan, Dileep Kalathil, and Pramod P. Khargonekar.** “Meta-learning online control for linear dynamical systems.” IEEE Transactions on Automatic Control (2025).
+
+- **Xu, Zaiyan, Sushil Vemuri, Kishan Panaganti, Dileep Kalathil, Rahul Jain, and Deepak Ramachandran.** “Distributionally Robust Direct Preference Optimization.” arXiv preprint arXiv:2502.01930 (2025).
+  
 - **Vishnu Teja Kunde, Vicram Rajagopalan, Chandra S. K. Valmeekam, Krishna R. Narayanan, Srinivas Shakkottai, Dileep Kalathil, Jean-François Chamberland.** “Transformers are Provably Optimal In-context Estimators for Wireless Communications.” In *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*, Apr. 2025.
 
 - **S. K. Ankireddy, H. Kim, and K. R. Narayanan.** “LIGHTCODE: Light Analytical and Neural Codes for Channels with Feedback.” *IEEE Journal on Selected Areas in Communications*, to appear in vol. 43, 2025.
@@ -45,13 +49,19 @@ permalink: /publications/
 
 ## 2023
 
+- **Jena, Amit, Dileep Kalathil, and Le Xie.** “Meta-learning-based adaptive stability certificates for dynamical systems.” In Proceedings of the AAAI conference on artificial intelligence, vol. 38, no. 11, pp. 12801-12809. 2024.
+
+- **Gohil, Vasudev, Satwik Patnaik, Dileep Kalathil, and Jeyavijayan Rajendran.** “AttackGNN:Red-Teaming GNNs in Hardware Security Using Reinforcement Learning.” In 33rd USENIX Security Symposium (USENIX Security 24), pp. 73-90. 2024.
+
+- **Chang, Ting-Jui, Sapana Chaudhary, Dileep Kalathil, and Shahin Shahrampour.** “Dynamic Regret Analysis of Safe Distributed Online Optimization for Convex and Non-convex Problems.” Transactions on Machine Learning Research (2023).
+
 - **Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.** “Bridging distributionally robust learning and offline rl: An approach to mitigate distribution shift and partial data coverage.” arXiv preprint arXiv:2310.18434 (2023).
 
 - **Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.** “Distributionally robust behavioral cloning for robust imitation learning.” In *2023 62nd IEEE Conference on Decision and Control (CDC)*, pp. 1342-1347. IEEE, 2023.
 
 - **Zaiyan Xu, Kishan Panaganti, Dileep Kalathil.** “Improved Sample Complexity Bounds for Distributionally Robust Reinforcement Learning.” In *Proceedings of the 26th International Conference on Artificial Intelligence and Statistics (AISTATS 2023)*, pp. 9728–9754, Apr. 2023.
 
-- **Rui-da Zhou, Tao Liu, Dileep Kalathil, P. R. Kumar, Chao Tian.** “Natural Actor-Critic for Robust Reinforcement Learning with Function Approximation.” In *Advances in Neural Information Processing Systems 36 (NeurIPS 2023)*, Dec. 2023.
+- **Ruida Zhou, Tao Liu, Dileep Kalathil, P. R. Kumar, Chao Tian.** “Natural Actor-Critic for Robust Reinforcement Learning with Function Approximation.” In *Advances in Neural Information Processing Systems 36 (NeurIPS 2023)*, Dec. 2023.
 
 - **Ting-Jui Chang, Sapana Chaudhary, Dileep Kalathil, Shahin Shahrampour.** “Dynamic Regret Analysis of Safe Distributed Online Optimization for Convex and Non-convex Problems.” *Transactions on Machine Learning Research (TMLR)*, Oct. 2023.
 
@@ -59,13 +69,13 @@ permalink: /publications/
 
 - **Bochan Lee, Vishnu Saj, Moble Benedict, Dileep Kalathil.** “Intelligent Vision-based Autonomous Ship Landing of VTOL UAVs.” *Journal of the American Helicopter Society*, vol. 68, no. 2, pp. 113–126, Apr. 2023.
 
-- **Rui-da Zhou, Chao Tian, Tie Liu.** “Stochastic chaining and strengthened information-theoretic generalization bounds.” *Journal of the Franklin Institute*, vol. 360, no. 6, pp. 4114–4134, Apr. 2023.
+- **Ruida Zhou, Chao Tian, Tie Liu.** “Stochastic chaining and strengthened information-theoretic generalization bounds.” *Journal of the Franklin Institute*, vol. 360, no. 6, pp. 4114–4134, Apr. 2023.
 
 - **Chao Tian, Hua Sun, and Jun Chen.** “A Shannon-theoretic approach to the storage–retrieval trade-off in PIR systems.” *Information* (MDPI), vol. 14, no. 1, Article 44, Jan. 2023.
 
 - **Chandra S. K. Valmeekam, Krishna R. Narayanan, Dileep Kalathil, Jean-François Chamberland, Srinivas Shakkottai.** “LLMZip: Lossless Text Compression using Large Language Models.” *arXiv preprint* arXiv:2306.04050, June 2023.
 
-- **Li Fan, Rui-da Zhou, Chao Tian, Cong Shen.** “Federated linear bandits with finite adversarial actions.” In *Advances in Neural Information Processing Systems 36 (NeurIPS 2023)*, Dec. 2023.
+- **Li Fan, Ruida Zhou, Chao Tian, Cong Shen.** “Federated linear bandits with finite adversarial actions.” In *Advances in Neural Information Processing Systems 36 (NeurIPS 2023)*, Dec. 2023.
 
 ## Group highlights
 

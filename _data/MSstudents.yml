@@ -1,9 +1,9 @@
-- name: Name
-  photo: rock.jpg
+- name: Sushil Vemuri
+  photo: Sushil_image.JPG
   info: M.S. Student
-  email: 
-  number_research: 1
-  research1: ML for wireless communications
-  research2: 
+  email: sushil22@tamu.edu
+  number_research: 2
+  research1: Large Language Models
+  research2: Reinforcement Learning
   research3:
   research4:
