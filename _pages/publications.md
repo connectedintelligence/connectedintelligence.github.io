@@ -9,6 +9,8 @@ permalink: /publications/
 
 ## 2025
 
+- **Saj, Vishnu, Bochan Lee, Dileep Kalathil, and Moble Benedict.** “Robust Reinforcement Learning Control for Vision-Based Ship Landing of VTOL-UAVs.” Journal of the American Helicopter Society (2025).
+
 - **Muthirayan, Deepan, Dileep Kalathil, and Pramod P. Khargonekar.** “Meta-learning online control for linear dynamical systems.” IEEE Transactions on Automatic Control (2025).
 
 - **Xu, Zaiyan, Sushil Vemuri, Kishan Panaganti, Dileep Kalathil, Rahul Jain, and Deepak Ramachandran.** “Distributionally Robust Direct Preference Optimization.” arXiv preprint arXiv:2502.01930 (2025).
@@ -27,9 +29,9 @@ permalink: /publications/
 
 - **Amit Jena, Dileep Kalathil, Le Xie.** “Meta‐Learning‐Based Adaptive Stability Certificates for Dynamical Systems.” In *Proceedings of the AAAI Conference on Artificial Intelligence*, Feb. 2024.
 
-- **Rui-da Zhou, Tao Liu, Min Cheng, Dileep Kalathil, P. R. Kumar, Chao Tian.** “Natural Actor-Critic for Robust Reinforcement Learning with Function Approximation.” *Neural Information Processing Systems (NeurIPS 2023)*, Dec. 2023. *(Presented in Dec. 2023, appeared 2024.)*
+- **Ruida Zhou, Tao Liu, Min Cheng, Dileep Kalathil, P. R. Kumar, Chao Tian.** “Natural Actor-Critic for Robust Reinforcement Learning with Function Approximation.” *Neural Information Processing Systems (NeurIPS 2023)*, Dec. 2023. *(Presented in Dec. 2023, appeared 2024.)*
 
-- **Rui-da Zhou, Chao Tian, and Tie Liu.** “Exactly tight information-theoretic generalization error bound for the quadratic Gaussian problem.” *IEEE Journal on Selected Areas in Information Theory*, vol. 5, pp. 94–104, Mar. 2024.
+- **Ruida Zhou, Chao Tian, and Tie Liu.** “Exactly tight information-theoretic generalization error bound for the quadratic Gaussian problem.” *IEEE Journal on Selected Areas in Information Theory*, vol. 5, pp. 94–104, Mar. 2024.
 
 - **Soumya Majumder, Lingzhi Dong, Fatemeh Doudi, Yuting Cai, Chao Tian, Dileep Kalathil, Keyu Ding, Anamitra Thatte, Na Li, and Le Xie.** “Exploring the capabilities and limitations of large language models in the electric energy sector.” *Joule*, vol. 8, no. 6, pp. 1544–1549, June 2024.
 
@@ -49,9 +51,9 @@ permalink: /publications/
 
 ## 2023
 
-- **Jena, Amit, Dileep Kalathil, and Le Xie.** “Meta-learning-based adaptive stability certificates for dynamical systems.” In Proceedings of the AAAI conference on artificial intelligence, vol. 38, no. 11, pp. 12801-12809. 2024.
+- **Jena, Amit, Dileep Kalathil, and Le Xie.** “Meta-learning-based adaptive stability certificates for dynamical systems.” In *Proceedings of the AAAI conference on artificial intelligence*, vol. 38, no. 11, pp. 12801-12809. 2024.
 
-- **Gohil, Vasudev, Satwik Patnaik, Dileep Kalathil, and Jeyavijayan Rajendran.** “AttackGNN:Red-Teaming GNNs in Hardware Security Using Reinforcement Learning.” In 33rd USENIX Security Symposium (USENIX Security 24), pp. 73-90. 2024.
+- **Gohil, Vasudev, Satwik Patnaik, Dileep Kalathil, and Jeyavijayan Rajendran.** “AttackGNN:Red-Teaming GNNs in Hardware Security Using Reinforcement Learning.” In *33rd USENIX Security Symposium (USENIX Security 24)*, pp. 73-90. 2024.
 
 - **Chang, Ting-Jui, Sapana Chaudhary, Dileep Kalathil, and Shahin Shahrampour.** “Dynamic Regret Analysis of Safe Distributed Online Optimization for Convex and Non-convex Problems.” Transactions on Machine Learning Research (2023).
 
