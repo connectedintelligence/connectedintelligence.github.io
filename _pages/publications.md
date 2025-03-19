@@ -1,6 +1,6 @@
 ---
 title: "TICI - Publications"
-layout: publications
+layout: page
 excerpt: "TICI -- Publications."
 sitemap: false
 permalink: /publications/
