@@ -45,6 +45,8 @@ permalink: /publications/
 
 ## 2023
 
+- **Valmeekam, Chandra Shekhara Kaushik, Krishna Narayanan, Dileep Kalathil, Jean-Francois Chamberland, and Srinivas Shakkottai.** “Llmzip: Lossless text compression using large language models.” arXiv preprint arXiv:2306.04050 (2023).
+
 - **Chang, Ting-Jui, Sapana Chaudhary, Dileep Kalathil, and Shahin Shahrampour.** “Dynamic Regret Analysis of Safe Distributed Online Optimization for Convex and Non-convex Problems.” Transactions on Machine Learning Research (2023).
 
 - **Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.** “Bridging distributionally robust learning and offline rl: An approach to mitigate distribution shift and partial data coverage.” arXiv preprint arXiv:2310.18434 (2023).
