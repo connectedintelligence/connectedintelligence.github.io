@@ -27,6 +27,10 @@ permalink: /publications/
 
 ## 2024
 
+- **​Menati, Ali, Fatemeh Doudi, Dileep Kalathil, and Le Xie.** “PowerMamba: A Deep State Space Model and Comprehensive Benchmark for Time Series Prediction in Electric Power Systems.” *arXiv preprint arXiv:2412.06112* (2024).
+
+- **​Bura, Archana, Sarat Chandra Bobbili, Shreyas Rameshkumar, Desik Rengarajan, Dileep Kalathil, and Srinivas Shakkottai.** “Structured Reinforcement Learning for Media Streaming at the Wireless Edge.” In *Proceedings of the Twenty-fifth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing*,  pp. 101-110. 2024.
+
 - **​Bura, Archana, Ushasi Ghosh, Dinesh Bharadia, and Srinivas Shakkottai.** “Realtime Neural Whittle Indexing for Scalable Service Guarantees in NextG Cellular Networks.” In Proceedings of the *30th Annual International Conference on Mobile Computing and Networking*, 1823–1825, 2024.
 
 - **Sapana Chaudhary, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai.** “Risk‐Averse Finetuning of Large Language Models.” In *Advances in Neural Information Processing Systems 37 (NeurIPS 2024)*, Dec. 2024.
