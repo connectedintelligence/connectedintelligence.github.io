@@ -176,7 +176,7 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>8:45 – 9:15 AM</td>
-      <td> Srinivas </td>
+      <td> Srinivas Shakkottai</td>
       <td>TAMU</td>
     </tr>
     <tr>
