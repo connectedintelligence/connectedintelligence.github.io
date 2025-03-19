@@ -67,3 +67,11 @@
     url:  https://ieeexplore.ieee.org/abstract/document/9771751
     display: IEEE Wireless Communications and Networking Conference (2022WCNC)
   highlight: 1
+
+- title: "Risk-Averse Fine Tuning of Large Language Models"
+  image: RA_RALF.png
+  description: Navigating the complexities of digital communication, our innovative approach fine-tunes language models with risk-averse strategies to significantly reduce toxic outputs. By optimizing the Conditional Value at Risk (CVaR), we enable models to sidestep harmful responses—even in rare, high-stakes situations—while still generating engaging content. Our experiments in sentiment modification and toxicity mitigation highlight how risk-averse RLHF paves the way for a safer and more constructive online dialogue.
+  authors: Sapana Chaudhary, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai
+  link:
+    url: https://proceedings.neurips.cc/paper_files/paper/2024/file/c182ec594f38926b7fcb827635b9a8f4-Paper-Conference.pdf
+    display: NeurIPS 2024
