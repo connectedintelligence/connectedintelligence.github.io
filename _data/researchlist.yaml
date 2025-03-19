@@ -60,3 +60,12 @@
     url:  https://ieeexplore.ieee.org/abstract/document/9771751
     display: IEEE Wireless Communications and Networking Conference (2022WCNC)
   highlight: 1
+
+- title: “Incorporating Side Information into Posterior Sampling with Diffusion Models for Inverse Problems“
+  image: Semi.png
+  description: In computer vision, many inverse problems can be framed as sampling from the posterior distribution given an observed, degraded image. To solve this, we leverage pretrained diffusion models as image priors. The reverse diffusion process is guided by a likelihood term, and we further refine sampling at inference time using side information to steer results toward more accurate solutions.
+  authors: M. Farahbakhsh, V. Kunde, K. Narayanan, D. Kalathil, J.-F. Chamberland
+  link:
+    url: 
+    display: 
+  highlight: 1
