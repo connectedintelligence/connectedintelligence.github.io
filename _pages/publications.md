@@ -9,7 +9,7 @@ permalink: /publications/
 
 ## 2025
 
-- **Vishnu Teja Kunde, Vicram Rajagopalan, Chandra S. K. Valmeekam, Krishna R. Narayanan, Srinivas Shakkottai, Dileep Kalathil, Jean-François Chamberland.** “Transformers are Provably Optimal In-context Estimators for Wireless Communications.” *Accepted to the 2025 International Conference on Artificial Intelligence and Statistics (AISTATS)*, to appear 2025 (arXiv:2311.00226, last revised Mar. 2025).
+- **Vishnu Teja Kunde, Vicram Rajagopalan, Chandra S. K. Valmeekam, Krishna R. Narayanan, Srinivas Shakkottai, Dileep Kalathil, Jean-François Chamberland.** “Transformers are Provably Optimal In-context Estimators for Wireless Communications.” In *Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (AISTATS 2025)*, Apr. 2025.
 
 - **S. K. Ankireddy, H. Kim, and K. R. Narayanan.** “LIGHTCODE: Light Analytical and Neural Codes for Channels with Feedback.” *IEEE Journal on Selected Areas in Communications*, to appear in vol. 43, 2025.
 
