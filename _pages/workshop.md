@@ -197,7 +197,7 @@ College Station, TX 77844 <br>
     <tr>
       <td>11:00 – 11:45 AM</td>
       <td>Panel: Open-RAN and 6G: Architecting the Next Wireless Revolution.  Moderator: Krishna Narayanan</td>
-      <td>Panelists: Junyi Li, Milap Majmundar, Srinivas Shakkottai, Michael Fox</td>
+      <td>Panelists: Junyi Li, Milap Majmundar, Srinivas Shakkottai, Michael Fox, Sabit Ekin</td>
     </tr>
     <tr>
       <td>12:00 – 2:00 PM</td>
