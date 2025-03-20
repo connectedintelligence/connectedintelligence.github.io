@@ -169,14 +169,14 @@ College Station, TX 77844 <br>
     <tr>
       <td>8:30 – 8:45 AM</td>
       <td>Welcome and Introduction</td>
-      <td>Coastas Georghiades, Vice President for Research</td>
+      <td>Costas Georghiades, Vice President for Research</td>
     </tr>
     <tr>
       <td colspan="3"> <b> NextG Communication Systems </b> </td>
     </tr>
     <tr>
       <td>8:45 – 9:15 AM</td>
-      <td> Srinivas </td>
+      <td> Srinivas Shakkottai</td>
       <td>TAMU</td>
     </tr>
     <tr>
@@ -196,7 +196,7 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>11:00 – 11:45 AM</td>
-      <td>Panel</td>
+      <td>Panel: Open-RAN and 6G: Architecting the Next Wireless Revolution.  Moderator: Krishna Narayanan</td>
       <td>Panelists: Junyi Li, Milap Majmundar, Srinivas Shakkottai, Michael Fox</td>
     </tr>
     <tr>
@@ -224,7 +224,7 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>4:15 – 5:00 PM</td>
-      <td>Panel</td>
+      <td>Panel:End-to-End Learning: A New Beginning for Autonomous Robotics?  Moderator: Sri Saripalli</td>
       <td>Panelists: Ajay Gummalla, Craig Robinson, Swaminathan Gopalaswamy, Dylan Shell, Jason O'Kane</td>
     </tr>
     <tr>
@@ -272,7 +272,7 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>11:00 – 11:45 AM</td>
-      <td>Panel</td>
+      <td>Panel: Beyond Perception: Is Reasoning the Next Leap in AI?  Moderator: Dileep Kalathil</td>
       <td>Panelists: Stefan Adalbjornsson, Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussein</td>
     </tr>
     <tr>

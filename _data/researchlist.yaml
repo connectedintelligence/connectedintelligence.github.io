@@ -10,7 +10,7 @@
 - title: "Transformers are Provably Optimal In-context Estimators for Wireless Communications"
   image: ICET.png
   description: We prove that a single layer softmax attention transformer (SAT) computes the optimal solution of canonical estimation problems in wireless communications in the limit of large prompt length. We also prove that the optimal configuration of such transformer is indeed the minimizer of the corresponding training loss.
-  authors: V. Kunde, V. Rajagopalan, C. S. K. Valmeekam, K. Narayanan, S. Shakkottai, D. Kalathil, J.-F. Chamberland
+  authors: V. T. Kunde, V. Rajagopalan, C. S. K. Valmeekam, K. Narayanan, S. Shakkottai, D. Kalathil, J.-F. Chamberland
   link:
     url: https://arxiv.org/pdf/2311.00226
     display: To appear in AISTATS 2025
@@ -40,6 +40,15 @@
     url: https://arxiv.org/abs/2306.04050
     display: arXiv Preprint
   highlight: 1
+
+- title: "OD-Stega: LLM-based near-imperceptible steganography via optimized distributions"
+  image: Odstega.jpg
+  description:  We explore coverless steganography using a Large Language Model (LLM) to guide an arithmetic coding decoder in generating stego-texts, aiming to embed secret bits efficiently while maintaining natural language fluency. Our approach optimizes a replacement probability distribution under a KL divergence constraint, offering a closed-form solution and addressing practical challenges such as tokenization mismatch, vocabulary truncation, and integration with previous stega methods like Discop.
+  authors: Y.S. Huang, P. Just, K. Narayanan, C. Tian
+  link:
+    url: https://arxiv.org/abs/2410.04328
+    display: arXiv Preprint
+  highlight: 1 
 
 - title: "Over-the-Air Neural Group Testing"
   image: 2_Over_The_Air_NGT.png

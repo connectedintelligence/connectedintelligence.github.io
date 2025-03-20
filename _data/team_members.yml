@@ -1,6 +1,6 @@
 - name: Krishna Narayanan
   photo: KRNprofile2021-225x300.jpg
-  info: Co-director, Professor
+  info: Co-director, Professor, Electrical and Computer Engineering
   email: krn@tamu.edu
   number_educ: 2
   education1: AI-native wireless networks 
@@ -8,7 +8,7 @@
   
 - name: Srinivas Shakkottai
   photo: Srinivas-Shakkottai6.jpg
-  info: Co-director, Professor
+  info: Co-director, Professor, Electrical and Computer Engineering
   email: sshakkot@tamu.edu
   number_educ: 2
   education1: AI-native wireless systems
@@ -16,23 +16,31 @@
 
 - name: Jean-Francois Chamberland
   photo: Chamberland-Image-225x300.jpg
-  info: Professor
+  info: Professor, Electrical and Computer Engineering
   email: chmbrlnd@tamu.edu
   number_educ: 2
   education1: Statistical signal processing
   education2: Machine learning, AI-native wireless networks
-
-- name: I-Hong Hou
-  photo: hou-image-150x150.jpg
-  info: Professor
+  
+- name: Eman Hammad
+  photo: eman-hammad.jpg
+  info: Assistant Professor, Engineering Technology & Industrial Distribution,
   email: hou@tamu.edu
   number_educ: 2
   education1: Resource allocation
+  education2: Autonomous, Collaborative and Human-in-the-Loop Complex Systems
+
+- name: I-Hong Hou
+  photo: hou-image-150x150.jpg
+  info: Professor, Electrical and Computer Engineering
+  email: eman.hammad@tamu.edu
+  number_educ: 2
+  education1: Cyber-Physical Systems’ Security, Trust, and Resilience
   education2: MAC, AI-native wireless networks
 
 - name: Dileep Kalathil
   photo: kalathil-image.jpg
-  info: Associate Professor
+  info: Associate Professor, Electrical and Computer Engineering
   email: kalathil@tamu.edu
   number_educ: 2
   education1: Reinforcement learning
@@ -40,7 +48,7 @@
 
 - name: Kamran Entesari
   photo: entesari-image.jpg
-  info: Professor
+  info: Professor, Electrical and Computer Engineering
   email: entesari@tamu.edu
   number_educ: 2
   education1: Electromagnetics, antennas
@@ -48,7 +56,7 @@
 
 - name: P.R. Kumar
   photo: kumar-image.jpg
-  info: Professor, Member of the National Academy of Engineering
+  info: Professor, Electrical and Computer Engineering, Member of the National Academy of Engineering
   email: prk@tamu.edu
   number_educ: 3
   education1: Stochastic systems and control
@@ -78,7 +86,7 @@
 
 - name: Chao Tian
   photo: tian-image-768x960.jpg
-  info: Associate Professor
+  info: Associate Professor, Electrical and Computer Engineering
   email: chao.tian@tamu.edu
   number_educ: 2
   education1: Machine learning theory
