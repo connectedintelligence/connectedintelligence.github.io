@@ -30,6 +30,7 @@
 - title: "Multi-Objective Alignment of Diffusion Model with Reverse-Time Drift Blending"
   image: DB.png
   description:  We propose DiffusionBlend which enables test-time alignment of Diffusion Models to user-defined weights for objectives and regularization without additional fine-tuning. DiffusionBlend leverages the closed-form solution of regularized fine-tuning to combine pre-finetuned drift terms for individual reward functions at test time, guided by user-specified objectives and regularization weights
+  authors: M. Cheng, F. Doudi, D. Kalathil, M. Ghavamzadeh, P. R. Kumar
   highlight: 1
   
 - title: "LLMZip: Lossless Text Compression using Large Language Models"
