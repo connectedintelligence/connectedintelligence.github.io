@@ -84,3 +84,12 @@
   link:
     url: https://proceedings.neurips.cc/paper_files/paper/2024/file/c182ec594f38926b7fcb827635b9a8f4-Paper-Conference.pdf
     display: NeurIPS 2024
+
+- title: "DOPL: Direct Online Preference Learning for Restless Bandits with Preference Feedback"
+  image: DOPL.png
+  description: "Addressing the limitations of conventional scalar rewards, DOPL leverages pairwise preference feedback to navigate restless multi-armed bandit problems. By directly employing online preference learning, the approach achieves sublinear regret of O(√(T ln T)), offering both theoretical guarantees and empirical validation for adaptive decision-making in environments where reward signals are scarce or imprecise."
+  authors: Guojun Xiong, Ujwal Dinesha, Debajoy Mukherjee, Jian Li, Srinivas Shakkottai
+  link:
+    url: https://arxiv.org/abs/2410.05527
+    display: To appear in ICLR 2025
+  highlight: 1
