@@ -277,7 +277,7 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>11:45 – 12:30 PM</td>
-      <td>Closed Door Lunch/Meeting with all invited speakers</td>
+      <td>Lunch Served in ZACH 297</td>
       <td> </td>
     </tr>
     <tr>
