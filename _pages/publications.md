@@ -77,6 +77,8 @@ permalink: /publications/
 
 - **Vasudev Gohil, Satwik Patnaik, Dileep Kalathil, and Jeyavijayan Rajendran.** “AttackGNN:Red-Teaming GNNs in Hardware Security Using Reinforcement Learning.” In *33rd USENIX Security Symposium (USENIX Security 24)*, pp. 73-90. 2024.
 
+- ​**An, Qing, Divyanshu Pandey, Rahman Doost-Mohammady, Ashutosh Sabharwal, and Srinivas Shakkottai.** "Helix: A RAN Slicing Based Scheduling Framework for Massive MIMO Networks." Proceedings of the ACM on Networking 2, no. CoNEXT4 (2024): 1-22.​
+
 ## 2023
 
 - **Kishan Panaganti, Zaiyan Xu, Dileep Kalathil, Mohammad Ghavamzadeh.** “Bridging distributionally robust learning and offline rl: An approach to mitigate distribution shift and partial data coverage.” *arXiv preprint arXiv:2310.18434*, 2023.

@@ -77,11 +77,10 @@
     display: IEEE Wireless Communications and Networking Conference (2022WCNC)
   highlight: 1
 
-- title: “Incorporating Side Information into Posterior Sampling with Diffusion Models for Inverse Problems“
-  image: Semi.png
-  description: In computer vision, many inverse problems can be framed as sampling from the posterior distribution given an observed, degraded image. To solve this, we leverage pretrained diffusion models as image priors. The reverse diffusion process is guided by a likelihood term, and we further refine sampling at inference time using side information to steer results toward more accurate solutions.
-  authors: M. Farahbakhsh, V. T. Kunde, K. Narayanan, D. Kalathil, J.-F. Chamberland
+- title: "Risk-Averse Fine Tuning of Large Language Models"
+  image: RA_RALF.png
+  description: Navigating the complexities of digital communication, our innovative approach fine-tunes language models with risk-averse strategies to significantly reduce toxic outputs. By optimizing the Conditional Value at Risk (CVaR), we enable models to sidestep harmful responses—even in rare, high-stakes situations—while still generating engaging content. Our experiments in sentiment modification and toxicity mitigation highlight how risk-averse RLHF paves the way for a safer and more constructive online dialogue.
+  authors: Sapana Chaudhary, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai
   link:
-    url: 
-    display: 
-  highlight: 1
+    url: https://proceedings.neurips.cc/paper_files/paper/2024/file/c182ec594f38926b7fcb827635b9a8f4-Paper-Conference.pdf
+    display: NeurIPS 2024
