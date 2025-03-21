@@ -229,9 +229,9 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>6:00 PM-8:00PM</td>
-      <td>Dinner</td>
+      <td>Dinner for invitees and faculty</td>
       <td>Casa Mangiare</td>
-    </tr>
+    </tr> 
     <tr>
       <td style="font-size: 16px;"> <b> March 25, 2025 </b> </td>
       <td> </td>
@@ -275,14 +275,14 @@ College Station, TX 77844 <br>
       <td>Panel: Beyond Generation: Is Reasoning the Next Leap in AI?  Moderator: Dileep Kalathil</td>
       <td>Panelists: Stefan Adalbjornsson, Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussain</td>
     </tr>
-    <tr>
+    <!--<tr>
       <td>11:45 – 12:30 PM</td>
       <td>Lunch Served in ZACH 297</td>
       <td> </td>
-    </tr>
+    </tr>-->
     <tr>
       <td>12:30:00</td>
-      <td>Head to RELLIS for tour</td>
+      <td>Invited speakers head to RELLIS for tour</td>
       <td> </td>
     </tr>
   </tbody>
