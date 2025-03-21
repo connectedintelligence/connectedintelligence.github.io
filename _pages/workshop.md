@@ -257,8 +257,8 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>9:30 – 10:00 AM</td>
-      <td>Speaker 6</td>
-      <td>In progress</td>
+      <td>Ishan Misra</td>
+      <td>Meta</td>
     </tr>
     <tr>
       <td>10:15 – 10:45 AM</td>
@@ -272,8 +272,8 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>11:00 – 11:45 AM</td>
-      <td>Panel: Beyond Perception: Is Reasoning the Next Leap in AI?  Moderator: Dileep Kalathil</td>
-      <td>Panelists: Stefan Adalbjornsson, Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussein</td>
+      <td>Panel: Beyond Generation: Is Reasoning the Next Leap in AI?  Moderator: Dileep Kalathil</td>
+      <td>Panelists: Stefan Adalbjornsson, Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussain</td>
     </tr>
     <tr>
       <td>11:45 – 12:30 PM</td>
