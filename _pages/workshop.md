@@ -195,7 +195,7 @@ College Station, TX 77844 <br>
     </tr>
     <tr>
       <td>10:30 – 11:00 AM</td>
-      <td>Milap Majumdar</td>
+      <td>Milap Majmundar</td>
       <td>AT&T Labs</td>
     </tr>
     <tr>
