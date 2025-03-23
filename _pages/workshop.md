@@ -46,7 +46,7 @@ College Station, TX 77843<br><br>
 <li>Main entrance faces Spence Street</li>
 </ol>
 
-<a href="https://goo.gl/maps/zachry">View Zachry Building on Google Maps</a>
+<a href="https://maps.app.goo.gl/8hu6GT9MXwGcvaR17">View Zachry Building on Google Maps</a>
 
 <strong> Note: </strong> Zachry Engineering Building is within walking distance from the Texas A&M Hotel 
 and conference center.
@@ -66,7 +66,7 @@ and conference center.
 </ol>
 - 5-7 minute walk to Zachry Engineering Building<br>
 - Pick up a parking ticket. We can validate parking for workshop attendees<br>
-<a href="https://goo.gl/maps/polo">View Polo Garage on Maps</a>
+<a href="https://maps.app.goo.gl/RYx7uH1Jbms6Ng3P7">View Polo Garage on Maps</a>
 </div>
 </details>
 </div>
