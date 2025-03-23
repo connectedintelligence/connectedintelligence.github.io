@@ -166,15 +166,20 @@ College Station, TX 77844 <br>
       <td>Zachry Chevron Room 297</td>
     </tr>
     <tr>
-      <td>8:30 – 8:45 AM</td>
+      <td>8:30 – 8:40 AM</td>
       <td>Welcome and Introduction</td>
       <td>Costas Georghiades, Vice President for Research</td>
+    </tr>
+    <tr>
+      <td>8:40 – 8:50 AM</td>
+      <td> Remarks</td>
+      <td>Arul Jayaraman, Associate Dean for Academic Affairs</td>
     </tr>
     <tr>
       <td colspan="3"> <b> NextG Communication Systems </b> </td>
     </tr>
     <tr>
-      <td>8:45 – 9:15 AM</td>
+      <td>8:50 – 9:20 AM</td>
       <td> Srinivas Shakkottai</td>
       <td>TAMU</td>
     </tr>
