@@ -182,11 +182,11 @@ College Station, TX 77844 <br>
       <td>Junyi Li</td>
       <td>Qualcomm</td>
     </tr>
-    <tr>
+   <!-- <tr>
       <td>10:15 – 10:30 AM</td>
       <td>Break</td>
       <td> </td>
-    </tr>
+    </tr>-->
     <tr>
       <td>10:30 – 11:00 AM</td>
       <td>Milap Majmundar</td>
