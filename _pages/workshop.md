@@ -173,12 +173,12 @@ College Station, TX 77844 <br>
       <td colspan="3"> <b> NextG Communication Systems </b> </td>
     </tr>
     <tr>
-      <td>8:50 – 9:20 AM</td>
+      <td>8:50 – 9:30 AM</td>
       <td> Srinivas Shakkottai</td>
       <td>TAMU</td>
     </tr>
     <tr>
-      <td>9:30 – 10:00 AM</td>
+      <td>9:45 – 10:15 AM</td>
       <td>Junyi Li</td>
       <td>Qualcomm</td>
     </tr>
