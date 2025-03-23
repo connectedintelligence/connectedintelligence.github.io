@@ -96,7 +96,7 @@ To make reservations:
 500 Gene Stallings Blvd <br> 
 College Station, TX 77844 <br>
 <strong>Directions:</strong>
-<a href="https://goo.gl/maps/7JKPGKGKGqQ2">View Gene Stallings Garage on Maps</a>
+<a href="https://maps.app.goo.gl/g9TPUhpEo3zkR54YA">View Gene Stallings Garage on Maps</a>
 - Hotel is adjacent to the parking garage <br>
 </div>
 </details>
