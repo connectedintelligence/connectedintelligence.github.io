@@ -39,13 +39,7 @@ details[open] > summary::after {
 125 Spence Street<br>
 College Station, TX 77843<br><br>
 
-<strong>Driving Directions:</strong>
-<ol>
-<li>From University Drive, turn onto Spence Street</li>
-<li>The Zachry Engineering Building will be on your right</li>
-<li>Main entrance faces Spence Street</li>
-</ol>
-
+<strong> Location:</strong>
 <a href="https://maps.app.goo.gl/8hu6GT9MXwGcvaR17"> View Zachry Building on Google Maps</a>
 
 <strong> Note: </strong> Zachry Engineering Building is within walking distance from the Texas A&M Hotel 
