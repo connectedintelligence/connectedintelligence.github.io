@@ -46,7 +46,7 @@ College Station, TX 77843<br><br>
 <li>Main entrance faces Spence Street</li>
 </ol>
 
-<a href="https://maps.app.goo.gl/8hu6GT9MXwGcvaR17">View Zachry Building on Google Maps</a>
+<a href="https://maps.app.goo.gl/8hu6GT9MXwGcvaR17"> View Zachry Building on Google Maps</a>
 
 <strong> Note: </strong> Zachry Engineering Building is within walking distance from the Texas A&M Hotel 
 and conference center.
