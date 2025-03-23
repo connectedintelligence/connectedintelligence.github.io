@@ -35,7 +35,7 @@ details[open] > summary::after {
 <details>
 <summary><h3 style="display: inline-block; margin: 0;">Venue </h3></summary>
 <div style="margin-top: 15px;">
-<strong>Zachry Engineering Building</strong><br>
+<strong>Room 297, Zachry Engineering Building</strong><br>
 125 Spence Street<br>
 College Station, TX 77843<br><br>
 
@@ -62,11 +62,10 @@ and conference center.
 <strong>Directions:</strong>
 <ol>
 <li>From University Drive, turn onto Polo Road</li>
-<li>Continue past the intersection with Wellborn Road</li>
-<li>The garage entrance will be on your left</li>
+<li>The garage entrance will be on your right</li>
 </ol>
 - 5-7 minute walk to Zachry Engineering Building<br>
-- Paid parking required<br>
+- Pick up a parking ticket. We can validate parking for workshop attendees<br>
 <a href="https://goo.gl/maps/polo">View Polo Garage on Maps</a>
 </div>
 </details>
