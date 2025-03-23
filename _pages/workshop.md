@@ -65,7 +65,7 @@ and conference center.
 <li>The garage entrance will be on your right</li>
 </ol>
 - 5-7 minute walk to Zachry Engineering Building<br>
-- Pick up a parking ticket. We can validate parking for workshop attendees<br>
+- Pick up a parking ticket. We will validate parking for workshop attendees<br>
 <a href="https://maps.app.goo.gl/RYx7uH1Jbms6Ng3P7">View Polo Garage on Maps</a>
 </div>
 </details>
