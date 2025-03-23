@@ -273,11 +273,11 @@ College Station, TX 77844 <br>
       <td>Panel: Beyond Generation: Is Reasoning the Next Leap in AI?  Moderator: Dileep Kalathil</td>
       <td>Panelists: Stefan Adalbjornsson, Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussain</td>
     </tr>
-    <!--<tr>
+    <tr>
       <td>11:45 – 12:30 PM</td>
       <td>Lunch Served in ZACH 297</td>
       <td> </td>
-    </tr>-->
+    </tr>
     <tr>
       <td>12:30:00</td>
       <td>Invited speakers head to RELLIS for tour</td>
