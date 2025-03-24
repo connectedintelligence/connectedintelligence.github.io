@@ -167,7 +167,7 @@ College Station, TX 77844 <br>
     <tr>
       <td>8:40 – 8:50 AM</td>
       <td> Remarks</td>
-      <td>Arul Jayaraman, Associate Dean for Academic Affairs</td>
+      <td>Arul Jayaraman, Executive Associate Dean</td>
     </tr>
     <tr>
       <td colspan="3"> <b> NextG Communication Systems </b> </td>
