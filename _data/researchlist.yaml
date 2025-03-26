@@ -51,15 +51,6 @@
     display: arXiv Preprint
   highlight: 1 
 
-- title: "Over-the-Air Neural Group Testing"
-  image: 2_Over_The_Air_NGT.png
-  description: We consider a wireless network where each user/sensor wishes to communicate an image to a central base station for the purpose of classifying images with intrinsic class imbalance. We introduce a new framework for encoding images where a single neural network is used to perform joint source coding and channel coding for the purpose of classification. The main novelty in the proposed approach is that all users simultaneously transmit features extracted from their image over the air, and inference is performed directly on the received signal (noisy sum of the transmitted signals) using neural group testing. We show that our framework can achieve significantly lower communication and computational costs than traditional communication schemes while offering privacy and better classification performance.  
-  authors: C. S. K. Valmeekam, K. Narayanan, A. Sprintson
-  link:
-    url: https://ieeexplore.ieee.org/abstract/document/10624979
-    display: IEEE International Conference on Machine Learning for Communication and Networking (2024ICMLCN)
-  highlight: 1
-
 - title: "Squeezed Random Khatri-Rao Product Codes"
   image: CDMMMnew2.png
   description: In coded distributed matrix multiplication, a master node wishes to compute large-scale matrix product with the help of several worker nodes, we proposed a class of codes to deal with this type of matrix multiplication, called Squeezed Random Khatri-Rao Product (RKRP) codes. We showed that squeezed RKRP codes are MDS with probability 1, and have optimial recovery thresholds with probability 1. 
@@ -68,16 +59,7 @@
     url: https://ieeexplore.ieee.org/abstract/document/9611422
     display: IEEE Information Theory Workshop 2021 (ITW9611422)
   highlight: 1
-
-- title: "A Semi-Blind Decision Directed Iterative Channel Estimation and Decoding for LDPC Coded OFDM Systems"
-  image: 3_DDCED.png
-  description: We propose a semi-blind decision-directed joint channel estimation and decoding algorithm for low-density parity check (LDPC) coded Orthogonal Frequency Division Multiplexing (OFDM) systems. There are two novel aspects in our algorithm - (i) an enhanced semi-blind channel estimation algorithm that hypothesizes a small set of symbols as additional pilots and (ii) an edge strength-based metric to determine a small subset of decisions at the output of the LDPC decoder as being reliable. Our algorithm has an order of magnitude lower complexity than a recently proposed machine learning-based channel estimation algorithm, while their performances are comparable.
-  authors: C. S. K. Valmeekam, K. Narayanan
-  link:
-    url:  https://ieeexplore.ieee.org/abstract/document/9771751
-    display: IEEE Wireless Communications and Networking Conference (2022WCNC)
-  highlight: 1
-
+  
 - title: "Risk-Averse Fine Tuning of Large Language Models"
   image: RA_RALF.png
   description: Navigating the complexities of digital communication, our innovative approach fine-tunes language models with risk-averse strategies to significantly reduce toxic outputs. By optimizing the Conditional Value at Risk (CVaR), we enable models to sidestep harmful responses—even in rare, high-stakes situations—while still generating engaging content. Our experiments in sentiment modification and toxicity mitigation highlight how risk-averse RLHF paves the way for a safer and more constructive online dialogue.
@@ -94,3 +76,22 @@
     url: https://arxiv.org/abs/2410.05527
     display: To appear in ICLR 2025
   highlight: 1
+
+- title: "Over-the-Air Neural Group Testing"
+  image: 2_Over_The_Air_NGT.png
+  description: We consider a wireless network where each user/sensor wishes to communicate an image to a central base station for the purpose of classifying images with intrinsic class imbalance. We introduce a new framework for encoding images where a single neural network is used to perform joint source coding and channel coding for the purpose of classification. The main novelty in the proposed approach is that all users simultaneously transmit features extracted from their image over the air, and inference is performed directly on the received signal (noisy sum of the transmitted signals) using neural group testing. We show that our framework can achieve significantly lower communication and computational costs than traditional communication schemes while offering privacy and better classification performance.  
+  authors: C. S. K. Valmeekam, K. Narayanan, A. Sprintson
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/10624979
+    display: IEEE International Conference on Machine Learning for Communication and Networking (2024ICMLCN)
+  highlight: 1
+  
+- title: "A Semi-Blind Decision Directed Iterative Channel Estimation and Decoding for LDPC Coded OFDM Systems"
+  image: 3_DDCED.png
+  description: We propose a semi-blind decision-directed joint channel estimation and decoding algorithm for low-density parity check (LDPC) coded Orthogonal Frequency Division Multiplexing (OFDM) systems. There are two novel aspects in our algorithm - (i) an enhanced semi-blind channel estimation algorithm that hypothesizes a small set of symbols as additional pilots and (ii) an edge strength-based metric to determine a small subset of decisions at the output of the LDPC decoder as being reliable. Our algorithm has an order of magnitude lower complexity than a recently proposed machine learning-based channel estimation algorithm, while their performances are comparable.
+  authors: C. S. K. Valmeekam, K. Narayanan
+  link:
+    url:  https://ieeexplore.ieee.org/abstract/document/9771751
+    display: IEEE Wireless Communications and Networking Conference (2022WCNC)
+  highlight: 1
+
