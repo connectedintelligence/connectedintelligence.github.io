@@ -40,7 +40,7 @@ Connected intelligent systems, supported over NextG communication and distribute
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/srikanthimageexample.jpg" alt="Slide 5" />
         </div>      
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ZACH-exterior-2.jpg" alt="Slide 6" />
         </div>
     </div>
