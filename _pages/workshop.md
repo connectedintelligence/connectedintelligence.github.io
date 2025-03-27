@@ -7,92 +7,45 @@ permalink: /workshop/
 The first Texas A&M Connected Intelligence workshop took place on March 24th and March 25th. A few pictures from
 the workshop and the schedule can be seen here.
 
-<style>
-.carousel-container {
-    max-width: 800px;
-    margin: 20px auto;
-    position: relative;
-}
-.carousel-slide {
-    display: none;
-    text-align: center;
-}
-.carousel-slide img {
-    max-width: 100%;
-    height: auto;
-}
-.carousel-nav {
-    text-align: center;
-    margin-top: 10px;
-}
-.prev, .next {
-    cursor: pointer;
-    padding: 8px 16px;
-    background-color: #500000;
-    color: white;
-    border: none;
-    margin: 0 5px;
-}
-.prev:hover, .next:hover {
-    background-color: #400000;
-}
-</style>
-
-<div class="carousel-container">
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic1.JPG" alt="Workshop Photo 1">
+<div class="slideshow-container" style="max-width: 800px; margin: 20px auto; position: relative;">
+  {% for i in (1..10) %}
+    {% if i == 1 or i == 10 %}
+      {% assign ext = "JPG" %}
+    {% else %}
+      {% assign ext = "jpg" %}
+    {% endif %}
+    <div class="mySlides" style="display: none; text-align: center;">
+      <img src="/images/workshops/2025/pic{{i}}.{{ext}}" style="max-width: 100%; height: auto;" alt="Workshop Photo {{i}}">
     </div>
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic2.jpg" alt="Workshop Photo 2">
-    </div>
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic3.jpg" alt="Workshop Photo 3">
-    </div>
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic4.jpg" alt="Workshop Photo 4">
-    </div>
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic5.jpg" alt="Workshop Photo 5">
-    </div>
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic6.jpg" alt="Workshop Photo 6">
-    </div>
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic7.jpg" alt="Workshop Photo 7">
-    </div>
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic8.jpg" alt="Workshop Photo 8">
-    </div>
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic9.jpg" alt="Workshop Photo 9">
-    </div>
-    <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic10.JPG" alt="Workshop Photo 10">
-    </div>
-    <div class="carousel-nav">
-        <button class="prev" onclick="changeSlide(-1)">Previous</button>
-        <button class="next" onclick="changeSlide(1)">Next</button>
-    </div>
+  {% endfor %}
+  
+  <button class="prev" onclick="plusSlides(-1)" style="cursor: pointer; padding: 8px 16px; background-color: #500000; color: white; border: none; position: absolute; left: 0; top: 50%; transform: translateY(-50%);">&#10094;</button>
+  <button class="next" onclick="plusSlides(1)" style="cursor: pointer; padding: 8px 16px; background-color: #500000; color: white; border: none; position: absolute; right: 0; top: 50%; transform: translateY(-50%);">&#10095;</button>
 </div>
 
 <script>
-let slideIndex = 1;
-showSlides(slideIndex);
-
-function changeSlide(n) {
+  var slideIndex = 1;
+  showSlides(slideIndex);
+  
+  function plusSlides(n) {
     showSlides(slideIndex += n);
-}
-
-function showSlides(n) {
-    let slides = document.getElementsByClassName("carousel-slide");
+  }
+  
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
     if (n > slides.length) {slideIndex = 1}
     if (n < 1) {slideIndex = slides.length}
-    
-    for (let i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
     }
     slides[slideIndex-1].style.display = "block";
-}
+  }
+  
+  // Initialize first slide
+  document.addEventListener('DOMContentLoaded', function() {
+    showSlides(slideIndex);
+  });
 </script>
 
 {% comment %}
