@@ -43,28 +43,28 @@ the workshop and the schedule can be seen here.
         <img src="/images/workshops/2025/pic1.JPG" alt="Workshop Photo 1">
     </div>
     <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic2.JPG" alt="Workshop Photo 2">
+        <img src="/images/workshops/2025/pic2.jpg" alt="Workshop Photo 2">
     </div>
     <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic3.JPG" alt="Workshop Photo 3">
+        <img src="/images/workshops/2025/pic3.jpg" alt="Workshop Photo 3">
     </div>
     <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic4.JPG" alt="Workshop Photo 4">
+        <img src="/images/workshops/2025/pic4.jpg" alt="Workshop Photo 4">
     </div>
     <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic5.JPG" alt="Workshop Photo 5">
+        <img src="/images/workshops/2025/pic5.jpg" alt="Workshop Photo 5">
     </div>
     <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic6.JPG" alt="Workshop Photo 6">
+        <img src="/images/workshops/2025/pic6.jpg" alt="Workshop Photo 6">
     </div>
     <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic7.JPG" alt="Workshop Photo 7">
+        <img src="/images/workshops/2025/pic7.jpg" alt="Workshop Photo 7">
     </div>
     <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic8.JPG" alt="Workshop Photo 8">
+        <img src="/images/workshops/2025/pic8.jpg" alt="Workshop Photo 8">
     </div>
     <div class="carousel-slide">
-        <img src="/images/workshops/2025/pic9.JPG" alt="Workshop Photo 9">
+        <img src="/images/workshops/2025/pic9.jpg" alt="Workshop Photo 9">
     </div>
     <div class="carousel-slide">
         <img src="/images/workshops/2025/pic10.JPG" alt="Workshop Photo 10">
