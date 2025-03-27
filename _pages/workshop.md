@@ -7,46 +7,37 @@ permalink: /workshop/
 The first Texas A&M Connected Intelligence workshop took place on March 24th and March 25th. A few pictures from
 the workshop and the schedule can be seen here.
 
-<div class="slideshow-container" style="max-width: 800px; margin: 20px auto; position: relative;">
-  {% for i in (1..10) %}
-    {% if i == 1 or i == 10 %}
-      {% assign ext = "JPG" %}
-    {% else %}
-      {% assign ext = "jpg" %}
-    {% endif %}
-    <div class="mySlides" style="display: none; text-align: center;">
-      <img src="/images/workshops/2025/pic{{i}}.{{ext}}" style="max-width: 100%; height: auto;" alt="Workshop Photo {{i}}">
-    </div>
-  {% endfor %}
-  
-  <button class="prev" onclick="plusSlides(-1)" style="cursor: pointer; padding: 8px 16px; background-color: #500000; color: white; border: none; position: absolute; left: 0; top: 50%; transform: translateY(-50%);">&#10094;</button>
-  <button class="next" onclick="plusSlides(1)" style="cursor: pointer; padding: 8px 16px; background-color: #500000; color: white; border: none; position: absolute; right: 0; top: 50%; transform: translateY(-50%);">&#10095;</button>
-</div>
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        {% for i in (1..10) %}
+            <li data-target="#carousel" data-slide-to="{{ i | minus: 1 }}" {% if i == 1 %}class="active"{% endif %}></li>
+        {% endfor %}
+    </ol>
 
-<script>
-  var slideIndex = 1;
-  showSlides(slideIndex);
-  
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-  
-  function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    slides[slideIndex-1].style.display = "block";
-  }
-  
-  // Initialize first slide
-  document.addEventListener('DOMContentLoaded', function() {
-    showSlides(slideIndex);
-  });
-</script>
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        {% for i in (1..10) %}
+            {% if i == 1 or i == 10 %}
+                {% assign ext = "JPG" %}
+            {% else %}
+                {% assign ext = "jpg" %}
+            {% endif %}
+            <div class="item {% if i == 1 %}active{% endif %}">
+                <img src="{{ site.url }}{{ site.baseurl }}/images/workshops/2025/pic{{i}}.{{ext}}" alt="Workshop Photo {{i}}" />
+            </div>
+        {% endfor %}
+    </div>
+    
+    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
 
 {% comment %}
 Welcome to The first Texas A&M Connected Intelligence workshop! The workshop will take place on March 24th
