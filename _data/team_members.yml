@@ -21,6 +21,8 @@
   number_educ: 2
   education1: Robotics
   education2: Autonomous systems
+  education3:
+  education4:
 
 - name: Nitesh Saxena
   photo: saxena-image-225x300.jpg
@@ -29,6 +31,8 @@
   number_educ: 2
   education1: Security
   education2: Software systems
+  education3:
+  education4:
 
 - name: Dileep Kalathil
   photo: kalathil-image.jpg
@@ -46,15 +50,16 @@
   education1: Stochastic systems and control
   education2: AI-native wireless networks
   education3: Machine learning theory
+  education4:
 
-  - name: Jean-Francois Chamberland
+- name: Jean-Francois Chamberland
   photo: Chamberland-Image-225x300.jpg
   info: Professor, Electrical and Computer Engineering
   email: chmbrlnd@tamu.edu
   number_educ: 2
   education1: Statistical signal processing
   education2: Machine learning, AI-native wireless networks
-  
+
 - name: Moble Benedict
   photo: benedict-image.jpg
   info: Associate Professor, Aerospace Engineering
