@@ -97,8 +97,8 @@
   info: Professor, Computer Science and Engineering  
   email: sji@tamu.edu  
   number_educ: 2  
-  education1: Machine learning, artificial intelligence  
-  education2: Language models and agents
+  education1: Machine learning, Artificial intelligence  
+  education2: Language models and Agents
 
 - name: Dylan Shell  
   photo: shell-image.jpg  
@@ -106,15 +106,15 @@
   email: dshell@cse.tamu.edu  
   number_educ: 2  
   education1: Distributed AI  
-  education2: Analysis of multi-agent systems, crowd modeling
+  education2: Analysis of multi-agent systems, Crowd modeling
 
 - name: Swaminathan Gopalswamy  
   photo: gopalswamy-image.jpg  
   info: Research Professor, Mechanical Engineering  
   email: sgopalswamy@tamu.edu  
   number_educ: 2  
-  education1: Autonomous systems, automotive systems  
-  education2: Distributed simualtion and control
+  education1: Autonomous systems, Automotive systems  
+  education2: Distributed simulation and Control
 
 - name: Tianbao Yang  
   photo: yang-image.jpg  
@@ -122,23 +122,23 @@
   email: tianbao-yang@tamu.edu  
   number_educ: 2  
   education1: Artificial intelligence  
-  education2: Optimization in machine learning
+  education2: Optimization in Machine learning
 
 - name: Jason O'Kane  
   photo: okane-image.jpg  
   info: Professor, Computer Science and Engineering  
   email: jokane@tamu.edu  
   number_educ: 2  
-  education1: Motion planning
-  education2: Autonomous robots, computational geometry
+  education1: Motion planning  
+  education2: Autonomous robots, Computational geometry
 
 - name: Moble Benedict  
   photo: benedict-image.jpg  
   info: Associate Professor, Aerospace Engineering  
   email: benedict@tamu.edu  
   number_educ: 2  
-  education1: Design, development and autonomous control of high performance next generation aircraft at small (MAVs/UAVs) and full scales.  
-  education2: Energy efficient green aviation
+  education1: Design, development and autonomous control of high-performance next-generation aircraft at small (MAVs/UAVs) and full scales  
+  education2: Energy-efficient green aviation
 
 - name: Sabit Ekin  
   photo: ekin-image.jpg  
@@ -146,4 +146,4 @@
   email: sabit.ekin@tamu.edu  
   number_educ: 2  
   education1: Wireless communication, mmWave and Terahertz communication  
-  education2: Internet of Things applications, satellite communication
+  education2: Internet of Things applications, Satellite communication
