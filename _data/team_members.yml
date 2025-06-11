@@ -92,4 +92,58 @@
   education1: Machine learning theory
   education2: Information theory, source coding
 
+- name: Shuiwang Ji  
+  photo: ji-image.jpg  
+  info: Professor, Computer Science and Engineering  
+  email: sji@tamu.edu  
+  number_educ: 2  
+  education1: Machine learning, Artificial intelligence  
+  education2: Language models and agents
 
+# - name: Dylan Shell  
+#   photo: shell-image.jpg  
+#   info: Associate Professor, Computer Science and Engineering  
+#   email: dshell@tamu.edu  
+#   number_educ: 2  
+#   education1: Multi-robot systems, distributed robotics  
+#   education2: Artificial intelligence, formal methods in robotics
+
+# - name: Swaminathan Gopalswamy  
+#   photo: gopalswamy-image.jpg  
+#   info: Assistant Professor, Engineering Technology and Industrial Distribution  
+#   email: swaminathan.gopalswamy@tamu.edu  
+#   number_educ: 2  
+#   education1: Robotics, autonomous systems  
+#   education2: Mechatronics, industrial automation
+
+# - name: Tianbao Yang  
+#   photo: yang-image.jpg  
+#   info: Associate Professor, Computer Science and Engineering  
+#   email: tianbao.yang@tamu.edu  
+#   number_educ: 2  
+#   education1: Artificial intelligence, optimization in machine learning  
+#   education2: Large-scale learning algorithms, deep learning
+
+# - name: Jason O'Kane  
+#   photo: okane-image.jpg  
+#   info: Professor, Computer Science and Engineering  
+#   email: jokane@tamu.edu  
+#   number_educ: 2  
+#   education1: Motion planning, robotics algorithms  
+#   education2: Autonomous systems, computational geometry
+
+# - name: Moble Benedict  
+#   photo: benedict-image.jpg  
+#   info: Associate Professor, Aerospace Engineering  
+#   email: moble@tamu.edu  
+#   number_educ: 2  
+#   education1: Unmanned aerial vehicles, vertical flight robotics  
+#   education2: Rotorcraft aerodynamics, autonomous aerial systems
+
+# - name: Sabit Ekin  
+#   photo: ekin-image.jpg  
+#   info: Associate Professor, Electrical and Computer Engineering  
+#   email: sabit.ekin@tamu.edu  
+#   number_educ: 2  
+#   education1: Wireless communication, spectrum sharing  
+#   education2: Signal processing, machine learning for communications
