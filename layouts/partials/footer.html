@@ -1,0 +1,163 @@
+<!-- footer -->
+<footer>
+
+  <!-- footer content -->
+  <div class="footer bg-footer section border-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-4 col-sm-8 mb-5 mb-lg-0">
+          <!-- logo -->
+          <a class="logo-footer" href="{{ site.BaseURL | relLangURL }}">
+            {{ partial "image.html" (dict "Src" site.Params.logo "Alt" site.Title "Class" "img-fluid mb-4") }}
+          </a>
+
+          <!-- TEXT LOGO -->
+          <p class="text-white">
+            We are part of the
+            <a href="https://engineering.tamu.edu/" class="text-white text-decoration-underline" target="_blank"
+              rel="noopener">
+              College of Engineering
+            </a> at the
+            <a href="https://www.tamu.edu/" class="text-white text-decoration-underline" target="_blank" rel="noopener">
+              Texas A&amp;M University (TAMU)
+            </a>.
+          </p>
+
+
+
+        </div>
+        <!-- company -->
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-4 text-uppercase">{{ i18n "company" }}</h4>
+          <ul class="list-unstyled">
+            {{ range site.Menus.main }}
+            {{ if not .HasChildren }}
+            <li class="mb-3"><a class="text-white" href="{{ .URL | absLangURL }}">{{ .Name }}</a></li>
+            {{ end }}
+            {{ end }}
+          </ul>
+        </div>
+        <!-- links -->
+        <div class="col-lg-2 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-4 text-uppercase">Funding</h4>
+          <ul class="list-unstyled">
+            <li class="mb-3">
+              <a href="https://www.nsf.gov/" class="text-white text-decoration-underline">
+                National Science Foundation
+              </a>
+            </li>
+            <li class="mb-3">
+              <a href="https://www.arl.army.mil/" class="text-white text-decoration-underline">
+                Army Research Lab
+              </a>
+            </li>
+            <li class="mb-3">
+              <a href="https://bcdc.tamus.edu/" class="text-white text-decoration-underline">
+                Bush Combat Development Complex
+              </a><span class="text-white">, in collaboration with the Army Futures Command</span>
+            </li>
+          </ul>
+        </div>
+
+        <!-- contact -->
+
+        <div class="col-lg-4 col-sm-4 col-6 mb-5 mb-md-0">
+          <h4 class="text-white mb-4 text-uppercase">Contact</h4>
+          <p class="text-white mb-1">Wisenbaker Engineering Building, Texas A&amp;M University</p>
+          <p class="text-white mb-1">Bizzell Street</p>
+          <p class="text-white mb-1">College Station, TX 77845</p>
+          <p class="text-white mb-0">
+            (
+            <a href="https://maps.google.com/?q=Wisenbaker+Engineering+Building,+Texas+A%26M+University" target="_blank"
+              class="text-white text-decoration-underline">Maps</a>,
+            <a href="https://www.google.com/maps/dir//Wisenbaker+Engineering+Building,+Texas+A%26M+University"
+              target="_blank" class="text-white text-decoration-underline">Directions</a>
+            )
+          </p>
+        </div>
+
+
+
+      </div>
+    </div>
+  </div>
+
+  <!-- /footer -->
+
+  {{ "<!-- Google Map API -->" | safeHTML }}
+  {{ with site.Params.map.gmap_api }}
+  <script src="{{ . | safeURL }}"></script>
+  {{ end }}
+
+  {{ "<!-- JS Plugins -->" | safeHTML }}
+  {{ range site.Params.plugins.js}}
+  <script src="{{ .link | absURL }}"></script>
+  {{ end }}
+
+  {{ "<!-- Main Script -->" | safeHTML }}
+  {{ $script := resources.Get "js/script.js" | minify}}
+  <script src="{{ $script.Permalink }}"></script>
+
+  {{ "<!-- google analitycs -->" | safeHTML }}
+  {{ with site.Params.google_analitycs_id}}
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', '{{ . }}', 'auto');
+    ga('send', 'pageview');
+  </script>
+  {{ end }}
+
+
+  <!-- cookie -->
+  {{ if site.Params.cookies.enable }}
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
+  <div id="js-cookie-box" class="cookie-box cookie-box-hide">
+    This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button"
+      class="btn btn-sm btn-outline-primary ml-2">I Accept</span>
+  </div>
+  <script>
+    (function ($) {
+      const cookieBox = document.getElementById('js-cookie-box');
+      const cookieButton = document.getElementById('js-cookie-button');
+      if (!Cookies.get('cookie-box')) {
+        cookieBox.classList.remove('cookie-box-hide');
+        cookieButton.onclick = function () {
+          Cookies.set('cookie-box', true, {
+            expires: {{ site.Params.cookies.expire_days }}
+      });
+      cookieBox.classList.add('cookie-box-hide');
+    };
+		}
+	}) (jQuery);
+  </script>
+
+  <!-- cookie style -->
+  <style>
+    .cookie-box {
+      position: fixed;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      text-align: center;
+      z-index: 9999;
+      padding: 1rem 2rem;
+      background: rgb(71, 71, 71);
+      transition: all .75s cubic-bezier(.19, 1, .22, 1);
+      color: #fdfdfd;
+    }
+
+    .cookie-box-hide {
+      display: none;
+    }
+  </style>
+  {{ end }}

@@ -1,0 +1,101 @@
+{{ define "main" }}
+
+<section class="section-new">
+  <div class="container">
+
+    <!-- ✅ Group Members Header Section -->
+    <div class="mb-2">
+      <h2 class="mb-2">Group Members</h2>
+      <p class="text-secondary ">
+        We are looking for new PhD students, Postdocs, and Master students to join the team
+        (<a href="{{ "./vacancies" | relURL }}" class="text-primary text-decoration-none">see openings</a>)!
+      </p>
+    </div>
+
+    <!-- ✅ Jump to Filter Navigation -->
+    <div class="mb-4 d-flex flex-wrap align-items-center gap-3">
+       <span class="fw-semibold me-2 text-primary">Jump to:</span>
+      {{ $courseOrder := slice "Faculty/Senior Researchers" "Ph.D. Students" "M.S. Student" "Alumni" }}
+      {{ range $course := $courseOrder }}
+        <a href="#{{ urlize $course }}" class="btn btn-outline-primary btn-sm">{{ $course }}</a>
+      {{ end }}
+    </div>
+
+    <!-- ✅ Course Sections -->
+    {{ range $course := $courseOrder }}
+    <h2 class="mb-3" id="{{ urlize $course }}">{{ $course }}</h2>
+    <div class="row">
+      {{ range sort (where $.Data.Pages "Params.course" $course) "Params.seniority" true }}
+      <div class="col-md-6 mb-4 d-flex">
+        <div class="card flex-fill border-0 shadow-sm">
+          <div class="row g-0 align-items-center">
+            {{ if eq .Params.course "Alumni" }}
+            <div class="col-12 p-3">
+              <h5 class="mb-1">
+                {{ if .Params.profile }}
+                <a href="{{ .Params.profile }}" target="_blank" rel="noopener" class="text-reset text-decoration-none">
+                  {{ .Title }} <i class="bi bi-box-arrow-up-right" style="font-size: 0.8em;"></i>
+                </a>
+                {{ else }}
+                {{ .Title }}
+                {{ end }}
+              </h5>
+              <p class="fst-italic mb-0">{{ .Params.bio }}</p>
+            </div>
+            {{ else }}
+            <div class="col-4 p-3 text-center">
+              {{ if .Params.image }}
+              <img src="{{ .Params.image | relURL }}" class="img-fluid rounded-1 shadow-sm"
+                style="border-radius: 10px; max-width: 100%; height: auto;" alt="{{ .Title }}">
+              {{ else }}
+              <div class="shadow-sm rounded-1" style="width: 100%; aspect-ratio: 1 / 1; background-color: #f8f9fa;">
+              </div>
+              {{ end }}
+            </div>
+            <div class="col-8 p-3">
+              <h5 class="mb-1">
+                {{ if .Params.profile }}
+                <a href="{{ .Params.profile }}" target="_blank" rel="noopener" class="text-reset text-decoration-none">
+                  {{ .Title }} <i class="bi bi-box-arrow-up-right" style="font-size: 0.8em;"></i>
+                </a>
+                {{ else }}
+                {{ .Title }}
+                {{ end }}
+              </h5>
+              <p class="fst-italic mb-2">{{ .Params.bio }}</p>
+              {{ if .Params.research }}
+              <ul class="mb-0 ps-3">
+                {{ range .Params.research }}
+                <li class="mb-2 text-dark" style="line-height: 1.5;">• {{ . }}</li>
+                {{ end }}
+              </ul>
+              {{ end }}
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <!-- ✅ Administrative Support Section -->
+    <div class="mb-2">
+      <h2 class="mb-2">Administrative Support</h2>
+      <p class="mb-1"> <strong>Ms. Vickie Winston</strong> is helping us (and other groups) with administration.</p>
+    </div>
+
+  </div>
+
+  <!-- ✅ Bootstrap Icons -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+  <!-- ✅ Smooth Scroll -->
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+  </style>
+</section>
+
+{{ end }}

@@ -1,0 +1,73 @@
+{{ define "main" }}
+
+
+<!-- research -->
+<section class="section">
+  <div class="container">
+
+    <!-- Research Projects  -->
+    <div class="mb-4">
+      <h2 class="mb-3">Research Projects</h2>
+    </div>
+    <div class="row">
+      {{ range .Data.Pages }}
+      <!-- research item -->
+      <div class="col-lg-4 col-sm-6 mb-4">
+        <div class="card h-100 shadow-lg border-0 rounded-4 bg-white transition-hover">
+          <div class="position-relative">
+
+            <!-- Image -->
+            {{ with .Params.image }}
+            <div class="card-img-top overflow-hidden rounded-top-4">
+              <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="img-fluid hover-zoom">
+            </div>
+            {{ end }}
+
+            <!-- Ribbon or Tag (Optional) -->
+            {{ with .Params.tags }}
+            <span class="position-absolute top-0 end-0 m-3 badge bg-primary">{{ index . 0 }}</span>
+            {{ end }}
+
+          </div>
+
+          <div class="card-body p-4">
+
+            <!-- Title -->
+            <h5 class="card-title fw-bold mb-2">
+              <a href="{{ .RelPermalink }}" class="text-dark text-decoration-none">{{ .Title }}</a>
+            </h5>
+
+            <!-- Authors -->
+            {{ with .Params.authors }}
+            <p class="text-muted small fst-italic mb-2">{{ . }}</p>
+            {{ end }}
+
+            <!-- Description -->
+            <div class="card-text mb-3 text-secondary small">
+              {{ .Content | truncate 150 }}
+            </div>
+
+            <!-- Link -->
+            {{ with .Params.link }}
+            <div class="d-grid">
+              <a href="{{ .url }}" target="_blank" rel="noopener" class="btn btn-sm btn-outline-primary text-truncate"
+                style="max-width: 100%;">
+                {{ .display }}
+              </a>
+            </div>
+
+            {{ end }}
+
+          </div>
+        </div>
+
+      </div>
+      {{ end }}
+    </div>
+
+
+  </div>
+</section>
+<!-- /research -->
+
+{{ end }}

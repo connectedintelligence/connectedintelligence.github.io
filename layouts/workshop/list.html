@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<!-- notice -->
+<section class="section-new">
+  <div class="container">
+
+    <div class="mb-4">
+      <h2 class="mb-3">{{ with .Params.page_title }}{{ . }}{{ else }}Workshop{{ end }}</h2>
+      {{ with .Params.page_description }}
+      <p class=" mb-0">{{ . }}</p>
+      {{ end }}
+    </div>
+    <div class="row">
+      <div class="col-12">
+        <ul class="list-unstyled">
+          <!-- notice item -->
+          {{ range .Data.Pages }}
+          {{ .Render "notice" }}
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /notice -->
+
+{{ end }}

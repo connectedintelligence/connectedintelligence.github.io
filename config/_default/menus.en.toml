@@ -1,0 +1,30 @@
+
+# main menu
+
+[[main]]
+name = "Team"
+url = "team/"
+weight = 1
+
+[[main]]
+name = "Publications"
+url = "publications/"
+weight = 2
+
+[[main]]
+name = "Research"
+url = "research/"
+weight = 3
+
+[[main]]
+name = "Workshop"
+url = "workshop/"
+weight = 4
+
+
+  
+  
+
+
+
+
