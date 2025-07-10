@@ -1,0 +1,118 @@
+- name: Ruowan Ji
+  photo: ruowanji.jpg
+  info: Ph.D. Student
+  email: ruowanji@tamu.edu
+  number_research: 3
+  research1: Retreival augmentation generation
+  research2: Federated learning
+  research3: Distributed Coded Matrix Multiplication
+
+- name: "[Zaiyan Xu](https://www.zaiyanxu.com)"
+  photo: zaiyan-image.jpg
+  info: Ph.D. Student
+  email: zxu43@tamu.edu
+  number_research: 3
+  research1: Reinforcement learning
+  research2: Distributionally robust optimization
+  research3: Reinforcement learning from human feedback
+  research4:
+
+- name: "[Vishnu Teja Kunde](https://vishnutez.github.io/)"
+  photo: VishnuKunde.jpg
+  info: Ph.D. Student
+  email: vishnukunde@tamu.edu
+  number_research: 2
+  research1: LLMS for wireless communications
+  research2: Diffusion models
+  research3:
+  research4:
+
+- name: "[Fatemeh Doudi](https://fatemehdoudi.github.io/)"
+  photo: fatemeh.jpg
+  info: Ph.D. Student
+  email: fatemehdoudi@tamu.edu
+  number_research: 2
+  research1: Diffusion models
+  research2: Transformers and In-context Learning
+  research3:
+  research4:
+
+- name: Mahdi Farahbakhsh
+  photo: mahdi.jpg
+  info: Ph.D. Student
+  email: mahdi.farahbakhsh@tamu.edu
+  number_research: 3
+  research1: Diffusion models
+  research2: Transformers
+  research3: Inverse problems
+  research4:
+
+- name: Sarat Chandra Bobbili
+  photo: sarat.jpg
+  info: Ph.D. Student
+  email: saratb@tamu.edu
+  number_research: 4
+  research1: Reinforcement Learning
+  research2: Large language models
+  research3: Online learning and Multi-Armed Bandits
+  research4: Stochastic Analysis 
+
+- name: Jeremy Carleton
+  photo: jeremy.png
+  info: Ph.D. Student
+  email: jcarleton@tamu.edu
+  number_research: 2
+  research1: Inference-time alignment of large language models
+  research2: Online learning
+  research3: 
+  research4:
+  
+- name: Kaushik Valmeekam
+  photo: Kaushik_image.jpeg
+  info: Ph.D. Student
+  email: vcskaushik9@tamu.edu
+  number_research: 3
+  research1: AI-native wireless communications  
+  research2: LLMs and Transformers
+  research3: ML based Joint Source Channel Coding
+  research4:
+
+- name: Bhavya Nukapotula
+  photo: bhavya.jpg
+  info: Ph.D. Student
+  email: bhavya_sai@tamu.edu
+  number_research: 2
+  research1: ML for wireless communications  
+  research2: Adaptive Gaussian Splatting Methods
+  research3: 
+  research4:
+
+- name: Yu-Shin Huang
+  photo: yushin.jpeg
+  info: Ph.D. Student
+  email: yushin1002@tamu.edu
+  number_research: 2
+  research1: LLM-based Steganography  
+  research2: LLM Watermarking
+  research3: 
+  research4:
+
+- name: Debajoy Mukherjee
+  photo: debajoy.png
+  info: Ph.D. Student
+  email: debajoym98@tamu.edu
+  number_research: 2
+  research1: Reinforcement learning through Human Feedback  
+  research2: LLM reasoning
+  research3: 
+  research4:
+
+- name: "[Ujwal Dinesha](https://flash-36.github.io/)"
+  photo: Ujwal.jpg
+  info: Ph.D. Student
+  email: ujwald36@tamu.edu
+  number_research: 4
+  research1: End-to-End Learning for Robotics
+  research2: LLM Alignment
+  research3: Deep Learning based Video Compression
+  research4: Bandit Algorithms
