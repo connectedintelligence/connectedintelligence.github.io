@@ -1,7 +1,7 @@
 ---
 title: "Vishnu Teja Kunde"
 draft: false
-image: "images/teachers/vishnuKunde.jpg"
+image: "images/teachers/vishnukunde.jpg"
 course: "Ph.D. Students"
 bio: "Ph.D. Student"
 profile: "https://vishnutez.github.io/"
