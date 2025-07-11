@@ -28,7 +28,7 @@
       {{ range sort (where $.Data.Pages "Params.course" $course) "Params.seniority" true }}
       <div class="col-md-6 mb-4 d-flex">
         <div class="card flex-fill border-0 shadow-sm">
-          <div class="row g-0 align-items-center">
+          <div class="row g-0 align-items-start">
             {{ if eq .Params.course "Alumni" }}
             <div class="col-12 p-3">
               <h5 class="mb-1">
