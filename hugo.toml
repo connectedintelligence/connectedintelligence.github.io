@@ -1,14 +1,14 @@
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/TAMUlogo.svg"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Department of Electrical Engineering, TAMU"
+mobile = "+1(979)845-7441"
+email = "krn@tamu.edu"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
