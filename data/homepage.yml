@@ -62,17 +62,15 @@ cta:
 success_story:
   enable : true
   bg_image : "images/backgrounds/success-story.jpg"
-  title : "Research Themes and Applications"
+  title : "Research Themes"
   content : |
     Our research activities are organized around the following cross-cutting research themes
-
     - Next-Generation communications and compute
     - Robotics and autonomy
     - Machine learning systems
     - System security
 
     Our research is inspired by applications to
-
     - Networked and Cloud Robotics
     - Open RAN, 6G Cellular
     - Augmented Reality
