@@ -21,6 +21,27 @@ name = "Workshop"
 url = "workshop/"
 weight = 4
 
+[[main]]
+weight = 5
+name = "Links"
+hasChildren = true
+
+  [[main]]
+  parent = "Links"
+  name = "page-1"
+  url = "page-1/"
+
+  [[main]]
+  parent = "Links"
+  name = "page-2"
+  url = "page-2/"
+
+  [[main]]
+  parent = "Links"
+  name = "page-3"
+  url = "page-3/"
+
+
 
   
   
