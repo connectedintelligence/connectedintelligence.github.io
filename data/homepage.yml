@@ -66,18 +66,18 @@ success_story:
   content : |
     Our research activities are organized around the following cross-cutting research themes:
 
-    - Next-Generation communications and compute
-    - Robotics and autonomy
-    - Machine learning systems
-    - System security
+    * Next-Generation communications and compute
+    * Robotics and autonomy
+    * Machine learning systems
+    * System security
 
     Our research is inspired by applications to:
 
-    - Networked and Cloud Robotics
-    - Open RAN, 6G Cellular
-    - Augmented Reality
-    - Smart Infrastructure
-    - Smart manufacturing
+    * Networked and Cloud Robotics
+    * Open RAN, 6G Cellular
+    * Augmented Reality
+    * Smart Infrastructure
+    * Smart manufacturing
   video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
 
 
