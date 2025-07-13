@@ -1,7 +1,7 @@
 
 #################### default parameters ################################
 [params]
-logo = "images/TAMUlogo.svg"
+logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
