@@ -2,3 +2,11 @@
   list-style-type: disc !important;
   margin-left: 2em !important;
 }
+
+/* Example for a logo inside a navbar */
+.navbar-brand img,
+.logo img {
+  width: 212px !important;
+  height: auto !important;
+  max-width: 100%;
+}
