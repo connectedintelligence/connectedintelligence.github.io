@@ -10,3 +10,103 @@
   height: auto !important;
   max-width: 100%;
 }
+// image slider 
+.about-image-slider .slick-dots {
+  position: absolute;
+  bottom: 15px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex !important;
+  gap: 8px;
+  z-index: 10;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Dot circle with maroon border */
+.about-image-slider .slick-dots li {
+  width: 12px;
+  height: 12px;
+  border: 2px solid #500000; /* theme maroon */
+  border-radius: 50%;
+  background-color: transparent;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+/* Active dot: filled maroon */
+.about-image-slider .slick-dots li.slick-active {
+  background-color: #500000;
+  transform: scale(1.2);
+}
+
+/* Hide default button content */
+.about-image-slider .slick-dots li button {
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  cursor: pointer;
+}
+
+.about-image-slider .slick-dots li button:before {
+  display: none;
+}
+@media (max-width: 768px) {
+  .about-image-slider .slick-dots {
+    bottom: 10px;
+    gap: 6px;
+  }
+
+  .about-image-slider .slick-dots li {
+    width: 10px;
+    height: 10px;
+  }
+}
+
+
+/* Arrows (Minimal, No Background) */
+.about-image-slider .slick-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 11;
+  color: #fff;
+  background: none;
+  border: none;
+  font-size: 24px;
+  padding: 0;
+  width: auto;
+  height: auto;
+  line-height: 1;
+}
+
+.about-image-slider .slick-prev {
+  left: 10px;
+}
+
+.about-image-slider .slick-next {
+  right: 10px;
+}
+
+/* Container Styling */
+.about-image-slider {
+  position: relative;
+  min-height: 280px;
+  max-height: 400px;
+  overflow: hidden;
+  border-radius: 0.75rem;
+}
+
+/* Each Slide Fills the Container */
+.about-image-slider .hero-slider-item {
+  height: 100%;
+}
+
+.about-image-slider img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+

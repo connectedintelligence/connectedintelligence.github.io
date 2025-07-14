@@ -12,15 +12,15 @@
     if ($('header').offset().top > 10) {
       $('.top-header').addClass('hide');
       $('.navigation').addClass('nav-bg');
-      $('.navigation').css('margin-top','-'+height+'px');
+      $('.navigation').css('margin-top', '-' + height + 'px');
     } else {
       $('.top-header').removeClass('hide');
       $('.navigation').removeClass('nav-bg');
-      $('.navigation').css('margin-top','-'+0+'px');
+      $('.navigation').css('margin-top', '-' + 0 + 'px');
     }
   });
 
-  
+
 
   // Background-images
   $('[data-background]').each(function () {
@@ -43,6 +43,22 @@
     dots: true
   });
   $('.hero-slider').slickAnimation();
+
+  // about slider 
+
+  $('.about-image-slider').slick({
+  autoplay: true,
+  autoplaySpeed: 5000,
+  pauseOnHover: false,
+  pauseOnFocus: false,
+  infinite: true,
+  fade: true,
+  arrows: true,
+  dots: true,
+  prevArrow: '<button type="button" class="slick-prev"><i class="ti-angle-left"></i></button>',
+  nextArrow: '<button type="button" class="slick-next"><i class="ti-angle-right"></i></button>',
+});
+
 
   // venobox popup
   $(document).ready(function () {
