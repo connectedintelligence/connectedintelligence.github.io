@@ -28,6 +28,7 @@
       <div class="col-12">
         <div class="bg-white p-5" style="border-radius: 10px;">
           <h2 class="section-title">{{ .title | markdownify }}</h2>
+          <p class="lead mb-4">{{ .content | markdownify }}</p>
           <!-- Feature Cards - Right after the title -->
           {{ with site.Data.homepage.success_story.themes }}
           <div class="row mt-4">
