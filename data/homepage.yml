@@ -67,7 +67,7 @@ cta:
 ######################## Success story #############################
 success_story:
   enable: true
-  bg_image: "images/backgrounds/success-story.jpg"
+  #bg_image: "images/backgrounds/success-story.jpg"
   title: "Research Themes"
   themes:
     - icon: '<i class="ti-mobile"></i>'
