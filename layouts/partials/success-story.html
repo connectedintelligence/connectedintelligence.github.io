@@ -4,7 +4,7 @@
 <section class="section bg-cover" data-background="{{ .bg_image | absURL }}">
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 col-sm-4 position-relative success-video">
+      <div class="col-lg-7 col-sm-5 position-relative success-video">
         <div class="bg-white p-5" style="height: 100%;">
           <div class="video-container" style="height: 100%; min-height: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
             {{ $videoId := replaceRE ".*(?:youtube\\.com\\/watch\\?v=|youtu\\.be\\/|youtube\\.com\\/embed\\/)([a-zA-Z0-9_-]+).*" "$1" .video_link }}
@@ -20,7 +20,7 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-6 col-sm-8">
+      <div class="col-lg-5 col-sm-7">
         <div class="bg-white p-5">
           <h2 class="section-title">{{ .title | markdownify }}</h2>
           <!-- Feature Cards - Right after the title -->
