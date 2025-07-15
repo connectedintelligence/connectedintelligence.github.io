@@ -67,16 +67,16 @@ cta:
 ######################## Success story #############################
 success_story:
   enable: true
-  #bg_image: "images/backgrounds/success-story.jpg"
+  bg_image: "images/backgrounds/success-story.jpg"
   title: "Research Themes"
   themes:
     - icon: '<i class="ti-mobile"></i>'
       title: "Next-Generation Communications"
       desc: "Cutting-edge wireless and compute systems."
-    - icon: '<i class="ti-robot"></i>'
+    - icon: '<i class="ti-settings"></i>'
       title: "Robotics and Autonomy"
       desc: "Smart, adaptive machines for the future."
-    - icon: '<i class="ti-brain"></i>'
+    - icon: '<i class="ti-light-bulb"></i>'
       title: "Machine Learning Systems"
       desc: "AI-driven insights and automation."
     - icon: '<i class="ti-shield"></i>'

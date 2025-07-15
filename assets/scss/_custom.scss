@@ -3,29 +3,6 @@
   margin-left: 2em !important;
 }
 
-.success-story-section {
-  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-  color: white;
-  
-  .section-title {
-    color: white;
-  }
-  
-  .card {
-    background: rgba(255, 255, 255, 0.95);
-    color: #333;
-    
-    &:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 8px 32px rgba(0,0,0,0.15);
-    }
-  }
-  
-  .feature-icon {
-    color: #1e3c72;
-  }
-}
-
 /* Example for a logo inside a navbar */
 .navbar-brand img,
 .logo img {
