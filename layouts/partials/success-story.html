@@ -19,3 +19,22 @@
   </div>
 </section>
 {{ end }}
+
+{{ with site.Data.homepage.success_story.themes }}
+<div class="row justify-content-center my-4">
+  {{ range . }}
+  <div class="col-md-3 col-6 mb-4">
+    <div class="card h-100 text-center shadow feature-card">
+      <div class="card-body">
+        <!-- Icon: emoji, SVG, or FontAwesome -->
+        <div class="feature-icon mb-3" style="font-size: 2.5rem;">
+          {{ .icon }}
+        </div>
+        <h5 class="card-title">{{ .title }}</h5>
+        <p class="card-text">{{ .desc }}</p>
+      </div>
+    </div>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
