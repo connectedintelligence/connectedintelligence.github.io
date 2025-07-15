@@ -72,13 +72,13 @@ success_story:
   themes:
     - icon: '<i class="ti-mobile"></i>'
       title: "Next-Generation Communications"
-      desc: "Cutting-edge wireless and compute systems."
+      desc: "6G, Open RAN, NTN"
     - icon: '<i class="ti-settings"></i>'
       title: "Robotics and Autonomy"
       desc: "Smart, adaptive machines for the future."
     - icon: '<i class="ti-light-bulb"></i>'
-      title: "Machine Learning Systems"
-      desc: "AI-driven insights and automation."
+      title: "Artificial Intelligence"
+      desc: "Theoretical foundations, Generative AI, and AI-driven insights"
     - icon: '<i class="ti-shield"></i>'
       title: "System Security"
       desc: "Protecting data and infrastructure."
