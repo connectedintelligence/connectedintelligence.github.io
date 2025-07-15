@@ -69,7 +69,7 @@ success_story:
   enable: true
   bg_image: "images/backgrounds/success-story.jpg"
   title: "Research Themes"
-  content: "At TICI, faculty, students, and researchers collaborate on theoretical and applied research in the following areas:"
+  content: "At TICI, faculty, students, and researchers collaborate on cutting-edge theoretical and applied research in the following areas:"
   themes:
     - icon: '<i class="ti-mobile"></i>'
       title: "Next-Generation Communications"
