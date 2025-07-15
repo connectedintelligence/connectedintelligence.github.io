@@ -1,7 +1,7 @@
 ################################# Slider #####################################
 slider:
   enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  bg_image : "images/banner/robs-HOrhCnQsxnQ-unsplash.jpg"
   slider_item:
     # slider item loop
     - title : "Building the Future Together"
