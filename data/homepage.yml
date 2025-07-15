@@ -70,16 +70,16 @@ success_story:
   bg_image: "images/backgrounds/success-story.jpg"
   title: "Research Themes"
   themes:
-    - icon: "🚀"
+    - icon: '<i class="fa fa-broadcast-tower"></i>'
       title: "Next-Generation Communications"
       desc: "Cutting-edge wireless and compute systems."
-    - icon: "🤖"
+    - icon: '<i class="fa fa-robot"></i>'
       title: "Robotics and Autonomy"
       desc: "Smart, adaptive machines for the future."
-    - icon: "🧠"
+    - icon: '<i class="fa fa-brain"></i>'
       title: "Machine Learning Systems"
       desc: "AI-driven insights and automation."
-    - icon: "🔒"
+    - icon: '<i class="fa fa-shield-alt"></i>'
       title: "System Security"
       desc: "Protecting data and infrastructure."
 
