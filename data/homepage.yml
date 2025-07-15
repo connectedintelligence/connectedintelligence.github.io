@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Building the Future Together"
-      content : "Our team works on smart tech—robots, AI, and more—using fast wireless and cloud tools to solve real problems in life and work."
+      content : "Our team works on smart tech—robots, AI, and next-generation wireless networks."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -42,6 +42,7 @@ about:
   enable : true
   title : "Our Mission"
   images:
+    - "images/about/banner-1.jpg"
     - "images/about/ApplicationawareORAN.png"
     - "images/about/srikanthimageexample.jpg"
     - "images/about/swarm.jpg"
