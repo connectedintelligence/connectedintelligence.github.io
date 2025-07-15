@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-lg-6 col-sm-4 position-relative success-video">
         <div class="video-box" style="background-image: url('{{ .bg_image | absURL }}'); background-size: cover; background-position: center; height: 300px; border-radius: 10px; position: relative; overflow: hidden;">
-          <div class="video-overlay" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center;">
+          <div class="video-overlay" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: transparent; display: flex; align-items: center; justify-content: center;">
             <a class="play-btn venobox" href="{{ .video_link | safeURL }}" data-vbtype="video">
               <i class="ti-control-play"></i>
             </a>
