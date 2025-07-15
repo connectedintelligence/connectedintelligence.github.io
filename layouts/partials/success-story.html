@@ -3,10 +3,11 @@
 {{ with $data.homepage.success_story }}
 <section class="section bg-cover" data-background="{{ .bg_image | absURL }}">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-7 col-sm-5 position-relative success-video">
-        <div class="bg-white p-5" style="height: 100%;">
-          <div class="video-container" style="height: 100%; min-height: 350px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <!-- Video Section - Full Width -->
+    <div class="row mb-5">
+      <div class="col-12">
+        <div class="bg-white p-5" style="border-radius: 10px;">
+          <div class="video-container" style="height: 400px; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
             {{ $videoId := replaceRE ".*(?:youtube\\.com\\/watch\\?v=|youtu\\.be\\/|youtube\\.com\\/embed\\/)([a-zA-Z0-9_-]+).*" "$1" .video_link }}
             <iframe 
               width="100%" 
@@ -20,8 +21,12 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-6 col-sm-8">
-        <div class="bg-white p-5">
+    </div>
+    
+    <!-- Research Themes Section - Below Video -->
+    <div class="row">
+      <div class="col-12">
+        <div class="bg-white p-5" style="border-radius: 10px;">
           <h2 class="section-title">{{ .title | markdownify }}</h2>
           <!-- Feature Cards - Right after the title -->
           {{ with site.Data.homepage.success_story.themes }}
