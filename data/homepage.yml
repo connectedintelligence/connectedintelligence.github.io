@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/istockphoto-1222629933-612x612.jpg"
   slider_item:
     # slider item loop
-    - title : "Texas A&M Initiative for Connected Intelligence"
+    - title : "Texas A&M Initiative for Connected Intelligence (TICI)"
       content : |
         We are planning the technological foundations for 
         next-generation physical intelligence, 
@@ -34,7 +34,7 @@ slider:
     # slider item loop
     - title : "Cutting-Edge Research"
       content : |
-        Under the umbrella of Texas A&M Initiative for Connected Intelligence (TICI), we are working on Next-Generation Communications, Robotics and Autonomy, 
+        Under the umbrella of TICI, we are working on Next-Generation Communications, Robotics and Autonomy, 
         Foundations and Applications of Artificial Intelligence, System Security, and related topics.
       animation_in : "left"
       animation_out : "right"
