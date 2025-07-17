@@ -32,12 +32,11 @@ slider:
         link : "/"
 
     # slider item loop
-    - title : "Core Areas of Research"
+    - title : "Cutting-Edge Research in"
       content : |
-        - Next-Generation Communications
-        - Robotics and Autonomy
-        - Foundations and Applications of Artificial Intelligence
-        - System Security
+        Next-Generation Communications, Robotics and Autonomy, 
+        Foundations and Applications of Artificial Intelligence, 
+        System Security, and related topics.
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
