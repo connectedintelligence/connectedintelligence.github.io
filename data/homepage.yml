@@ -4,8 +4,11 @@ slider:
   bg_image : "images/banner/istockphoto-1222629933-612x612.jpg"
   slider_item:
     # slider item loop
-    - title : "Building the Future Together"
-      content : "Our team works on smart tech—robots, AI, and next-generation wireless networks."
+    - title : "Texas A&M Initiative for Connected Intelligence"
+      content : |
+      We are planning the technological foundations for 
+      next-generation physical intelligence, 
+      enabling collaborative, networked agents to operate across domains.
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,8 +18,11 @@ slider:
         link : "/"
 
     # slider item loop
-    - title : "Shaping the Future of Intelligent Systems"
-      content : "Collaborating across disciplines, we drive research in machine learning, wireless systems, and smart sensing to build the connected technologies that will redefine our world"
+    - title : "Cross-Disciplinary Collaboration"
+      content : |
+        TICI brings together 20 faculty members and more than 50 students from electrical engineering, 
+        computer science, mechanical and aerospace engineering, and industrial 
+        technology—uniting AI, robotics, networking, and systems.
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -26,9 +32,12 @@ slider:
         link : "/"
 
     # slider item loop
-    - title : "NextG-Driven Discovery Starts Here"
-      content : "With a focus on cutting-edge AI, cloud/edge computing, and immersive technologies, we are laying the foundation for the next wave of societal transformation through connected intelligent systems"
-      animation_in : "left"
+    - title : "Core Areas of Research"
+      content : |
+        - Next-Generation Communications
+        - Robotics and Autonomy
+        - Foundations and Applications of Artificial Intelligence
+        - System Security
       animation_out : "right"
       # available animation : left, right, up, down
       button:
