@@ -52,6 +52,16 @@
   education3: Machine learning theory
   education4:
 
+- name: Robert Ambrose
+  photo: Ambrose_Robert-225-300.jpg
+  info: Professor, Mechanical Engineering, Member of the National Academy of Engineering
+  email: rambrose@tamu.edu
+  number_educ: 3
+  education1: Robotics and autonomous systems  
+  education2: Human-robot interaction  
+  education3: Space and planetary exploration technologies 
+  education4:
+
 - name: Jean-Francois Chamberland
   photo: Chamberland-Image-225x300.jpg
   info: Professor, Electrical and Computer Engineering
@@ -124,6 +134,14 @@
   education1: Motion planning
   education2: Autonomous robots, Computational geometry
 
+- name: Manoranjan Majji
+  photo: benedict-image.jpg
+  info: Professor, Aerospace Engineering
+  email: mmajji@tamu.edu
+  number_educ: 2
+  education1: Computational vision and sensor systems
+  education2: Aerospace robotics and autonomous systems
+  
 - name: Dylan Shell  
   photo: shell-image.jpg  
   info: Professor, Computer Science and Engineering  
