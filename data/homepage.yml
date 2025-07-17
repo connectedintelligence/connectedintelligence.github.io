@@ -6,9 +6,9 @@ slider:
     # slider item loop
     - title : "Texas A&M Initiative for Connected Intelligence"
       content : |
-      We are planning the technological foundations for 
-      next-generation physical intelligence, 
-      enabling collaborative, networked agents to operate across domains.
+        We are planning the technological foundations for 
+        next-generation physical intelligence, 
+        enabling collaborative, networked agents to operate across domains.
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -38,6 +38,7 @@ slider:
         - Robotics and Autonomy
         - Foundations and Applications of Artificial Intelligence
         - System Security
+      animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
