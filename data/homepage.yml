@@ -34,7 +34,7 @@ slider:
     # slider item loop
     - title : "Cutting-Edge Research"
       content : |
-        Next-Generation Communications, Robotics and Autonomy, 
+        Under the umbrella of TICI we are working on Next-Generation Communications, Robotics and Autonomy, 
         Foundations and Applications of Artificial Intelligence, 
         System Security, and related topics.
       animation_in : "left"
