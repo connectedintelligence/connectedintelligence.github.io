@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/istockphoto-1222629933-612x612.jpg"
   slider_item:
     # slider item loop
-    - title : "Texas A&M Initiative for Connected Intelligence (TICI)"
+    - title : "Texas A&M Connected Intelligence Initiative χ²"
       content : |
         We are planning the technological foundations for 
         next-generation physical intelligence, 
