@@ -7,20 +7,20 @@ bg_image: "images/backgrounds/lab.jpg"
 
 | Time          | Speaker/Title |
 |---------------|----------------|
-9:00 - 9:20 AM  | P.R.Kumar, "Automated Traffic Management for Unmanned Air Transportation Systems"|
-9:20 - 9:40 AM  | Dylan Shell, "Planning Sparse Observations"|
-9:40 - 10:00 AM | Chao Tian, "From deep additive kernel learning to last-layer Bayesian neural networks via induced prior approximation"|
-10:00AM - 10:20AM | Gang Li, "DisCO: Reinforcing Large Reasoning Models with Discriminative Constrained Optimization" |
-10:20 - 10:40 AM| Coffee break/ networking |
-10:40 - 11:00 AM| Varun Murali, "Collaborative Intelligent Systems" |
-11:00 - 11:20 AM| Srikanth Saripalli, "Is Imitation all you need?"|
-11:20 - 11:40 AM| Srinivas Shakkottai, "AI/ML in Wireless Communications"|
-11:40AM - 12:00PM| Nurullah Sevim, "Theoretical Foundations of Waste Factor and Waste Figure with Applications to Fixed Wireless Access and Relay Systems" |
+|9:00 - 9:20 AM  | P.R.Kumar, "Automated Traffic Management for Unmanned Air Transportation Systems"|
+|9:20 - 9:40 AM  | Dylan Shell, "Planning Sparse Observations"|
+|9:40 - 10:00 AM | Chao Tian, "From deep additive kernel learning to last-layer Bayesian neural networks via induced prior approximation"|
+|10:00AM - 10:20AM | Gang Li, "DisCO: Reinforcing Large Reasoning Models with Discriminative Constrained Optimization" |
+|10:20 - 10:40 AM| Coffee break/ networking |
+|10:40 - 11:00 AM| Varun Murali, "Collaborative Intelligent Systems" |
+|11:00 - 11:20 AM| Srikanth Saripalli, "Is Imitation all you need?"|
+|11:20 - 11:40 AM| Srinivas Shakkottai, "AI/ML in Wireless Communications"|
+|11:40AM - 12:00PM| Nurullah Sevim, "Theoretical Foundations of Waste Factor and Waste Figure with Applications to Fixed Wireless Access and Relay Systems" |
 |---------------|----------------|
-12:00PM - 1:30PM| Lunch and networking|
+|12:00PM - 1:30PM| Lunch and networking|
 |---------------|----------------|
-1:30 - 1:50PM   | Kalyan Nakka, "On-Device Small Language Models: Risks, Vulnerabilities and Defenses"|
-1:50 - 2:10PM   |  "Human-AI Conflict Resolution" |
-2:10 - 2:30PM   | Oguz Bedir, "Use of transformer architecture for wireless signal processing"|
-2:30 - 2:50PM   | Krishna Narayanan |
+|1:30 - 1:50PM   | Kalyan Nakka, "On-Device Small Language Models: Risks, Vulnerabilities and Defenses"|
+|1:50 - 2:10PM   |  "Human-AI Conflict Resolution" |
+|2:10 - 2:30PM   | Oguz Bedir, "Use of transformer architecture for wireless signal processing"|
+|2:30 - 2:50PM   | Krishna Narayanan |
 |---------------|----------------|
