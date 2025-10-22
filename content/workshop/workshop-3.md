@@ -24,4 +24,4 @@ draft: false
 |2:10 - 2:30 PM  | Krishna Narayanan, "Agentic Workflows for Communication Waveform Generation" |
 |2:30 - 2:50 PM  | Eman Hammad, "Human-AI Conflict Resolution"|
 |2:50 - 3:20 PM  | Coffee break/networking|
-|3:20 - 4:00 PM  | Student presentations|
+|3:20 -   | Student presentations|
