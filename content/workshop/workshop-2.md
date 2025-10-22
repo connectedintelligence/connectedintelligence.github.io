@@ -1,6 +1,8 @@
 ---
-date: 2025-03-25T15:27:17+06:00
+title: "March 25, 2025 Workshop"
+date: 2025-03-25T15:27:17-05:00
 bg_image: "images/backgrounds/lab.jpg"
+draft: false
 ---
 
 ### March 25, 2025
