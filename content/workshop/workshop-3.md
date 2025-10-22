@@ -22,5 +22,5 @@ bg_image: "images/backgrounds/lab.jpg"
 |1:30 - 1:50PM   | Kalyan Nakka, "On-Device Small Language Models: Risks, Vulnerabilities and Defenses"|
 |1:50 - 2:10PM   | Oguz Bedir, "Use of transformer architecture for wireless signal processing"|
 |2:10 - 2:30PM   | Krishna Narayanan, "Agentic Workflows for Communication Waveform Generation" |
-|2:30 - 2:50PM   | Eman Hammad, "Human-AI Conflict Resolution"
+|2:30 - 2:50PM   | Eman Hammad, "Human-AI Conflict Resolution"|
 |---------------|----------------|
