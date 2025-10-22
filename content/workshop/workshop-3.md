@@ -1,5 +1,5 @@
 ---
-date: 2025-10-23T15:27:17+06:00
+date: 2025-03-26T15:27:17+06:00
 bg_image: "images/backgrounds/lab.jpg"
 ---
 
@@ -17,7 +17,10 @@ bg_image: "images/backgrounds/lab.jpg"
 |11:20 - 11:40 AM| Srinivas Shakkottai, "AI/ML in Wireless Communications"|
 |11:40 AM - 12:00 PM| Nurullah Sevim, "Theoretical Foundations of Waste Factor and Waste Figure with Applications to Fixed Wireless Access and Relay Systems" |
 |12:00 PM - 1:30 PM| Lunch and networking|
-|1:30 - 1:50 PM   | Kalyan Nakka, "On-Device Small Language Models: Risks, Vulnerabilities and Defenses"|
-|1:50 - 2:10 PM   | Oguz Bedir, "Use of transformer architecture for wireless signal processing"|
-|2:10 - 2:30 PM   | Krishna Narayanan, "Agentic Workflows for Communication Waveform Generation" |
-|2:30 - 2:50 PM   | Eman Hammad, "Human-AI Conflict Resolution"|
+|1:30 - 1:50 PM  | Kalyan Nakka, "On-Device Small Language Models: Risks, Vulnerabilities and Defenses"|
+|1:50 - 2:10 PM  | Oguz Bedir, "Use of transformer architecture for wireless signal processing"|
+|2:10 - 2:30 PM  | Krishna Narayanan, "Agentic Workflows for Communication Waveform Generation" |
+|2:30 - 2:50 PM  | Eman Hammad, "Human-AI Conflict Resolution"|
+|2:50 - 3:20 PM  | Coffee break/networking|
+|3:20 - 4:00 PM  | Student presentations|
+|----------------|----------------------|
