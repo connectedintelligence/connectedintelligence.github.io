@@ -1,5 +1,5 @@
 ---
-date: 2025-10-23T15:27:17+06:00
+date: 2025-10-20T15:27:17+06:00
 bg_image: "images/backgrounds/lab.jpg"
 ---
 
