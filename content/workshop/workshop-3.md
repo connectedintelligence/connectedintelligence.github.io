@@ -1,4 +1,5 @@
 ---
+title: "October 23, 2025 Connected Conversations"
 date: 2025-10-23T15:27:17-05:00
 bg_image: "images/backgrounds/lab.jpg"
 draft: false
@@ -24,4 +25,3 @@ draft: false
 |2:30 - 2:50 PM  | Eman Hammad, "Human-AI Conflict Resolution"|
 |2:50 - 3:20 PM  | Coffee break/networking|
 |3:20 - 4:00 PM  | Student presentations|
-|----------------|----------------------|

@@ -16,13 +16,11 @@ google_analitycs_id = "" # your id
 # top header
 top_header = false
 
-# Enable future content to be published
-buildFuture = true
-
 ############################# Build ##############################
 [build]
 noJSConfigInAssets = false
 useResourceCacheWhen = 'fallback'
+buildFuture = true
 [build.buildStats]
 enable = true
 [[build.cachebusters]]
