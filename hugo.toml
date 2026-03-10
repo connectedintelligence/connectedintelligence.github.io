@@ -1,4 +1,6 @@
 
+buildFuture = true
+
 #################### default parameters ################################
 [params]
 logo = "images/logo.png"
@@ -20,7 +22,6 @@ top_header = false
 [build]
 noJSConfigInAssets = false
 useResourceCacheWhen = 'fallback'
-buildFuture = true
 [build.buildStats]
 enable = true
 [[build.cachebusters]]
@@ -57,9 +58,12 @@ maxAge = "720h"
 
 ############################# Markup ###############################
 [markup]
-[markup.goldmark.renderer]
-unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      autoHeadingID = true
 
+    [markup.goldmark.renderer]
+      unsafe = true
 ############################# Plugins ##############################
 
 # CSS Plugins

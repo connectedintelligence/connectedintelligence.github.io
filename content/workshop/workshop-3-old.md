@@ -2,7 +2,7 @@
 title: "October 23, 2025 Connected Conversations"
 date: 2024-10-23T15:27:17-05:00
 bg_image: "images/backgrounds/lab.jpg"
-draft: false
+draft: true
 ---
 
 ### October 23, 2025

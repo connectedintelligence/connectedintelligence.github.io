@@ -1,25 +1,37 @@
 ---
-title: "March 24, 2025 Workshop"
-date: 2025-03-24T15:27:17-05:00
-bg_image: "images/backgrounds/lab.jpg"
+title: "March 19, 2026 Workshop"
+date: 2026-03-19
 draft: false
 ---
 
-### March 24, 2025
+### March 19, 2026
 
-| Time              | Event/Speaker                                                                                       | Details                                                   |
-|-------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-| **March 24, 2025**                                                                                                       |                                                           |                                                           |
-| 8:00 – 8:30 AM     | Continental Breakfast                                                                                | Zachry Chevron Room 297                                   |
-| 8:30 – 8:40 AM     | Welcome and Introduction                                                                            | Costas Georghiades, Vice President for Research           |
-| 8:40 – 8:50 AM     | Remarks                                                                                              | Arul Jayaraman, Executive Associate Dean                  |
+| Time              | Event/Speaker                     | Details |
+|-------------------|-----------------------------------|--------|  
+| 8:15 – 8:45 AM     | Breakfast                         |        |
+| 8:45 – 9:00 AM     | Welcome Address                   | Dr. Narasimha Reddy |
 
-### NextG Communication Systems
+### Artificial Intelligence
 
-| Time             | Event/Speaker                                                                                         | Details                                                                                  |
-|------------------|--------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| 8:50 – 9:30 AM   | Srinivas Shakkottai                                                                                    | TAMU                                                                                     |
-| 9:45 – 10:15 AM  | Junyi Li                                                                                               | Qualcomm                                                                                 |
-| 10:30 – 11:00 AM | Milap Majmundar                                                                                        | AT&T Labs                                                                                |
-| 11:00 – 11:45 AM | Panel: Open-RAN and 6G: Architecting the Next Wireless Revolution. Moderator: Krishna Narayanan       | Panelists: Junyi Li, Milap Majmundar, Srinivas Shakkottai, Michael Fox, Sabit Ekin       |
-| 12:00 – 2:00 PM  | Lunch Served in Zachry 297 / Poster Presentations                                                      | Virginia Brown Atrium                                                                    |
+| Time             | Event/Speaker | Details |
+|------------------|--------------|--------|
+| 9:00 – 9:30 AM   | Zhiwen Fan   | TAMU |
+| 9:45 – 10:15 AM  | Joseph Soriaga | Qualcomm |
+| 10:30 – 11:00 AM | Manling Li | Amazon Scholar / Northwestern |
+| 11:00 – 11:45 AM | Panel: Artificial Intelligence | Participants: Zhiwen Fan, Joseph Soriaga, Manling Li, Dileep Kalathil |
+| 12:00 – 2:00 PM  | Lunch Served / Poster Presentations | Wisenbaker 232 / Wisenbaker Lobby |
+
+### Connectivity
+
+| Time             | Event/Speaker | Details |
+|------------------|--------------|--------|
+| 2:00 – 2:30 PM   | Balaji Raghothaman | Keysight Technologies |
+| 2:45 – 3:30 PM   | Stefan Adalbjornsson | Ericsson |
+| 3:45 – 4:15 PM   | Milap Majumdar | AT&T |
+| 4:15 – 5:00 PM   | Panel: 6G Technologies | Participants: Balaji Raghothaman, Stefan Adalbjornsson, Milap Majumdar, Srinivas Shakkottai |
+
+### Workshop Dinner
+
+| Time | Event | Details |
+|------|------|--------|
+| 6:00 PM | Workshop Dinner | Casa Mangiare |

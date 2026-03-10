@@ -1,27 +1,70 @@
 {{ define "main" }}
 
-<!-- notice -->
+{{ $workshops := where site.RegularPages "Section" "workshop" }}
+
 <section class="section-new">
   <div class="container">
 
     <div class="mb-4">
       <h2 class="mb-3">{{ with .Params.page_title }}{{ . }}{{ else }}Workshop{{ end }}</h2>
       {{ with .Params.page_description }}
-      <p class=" mb-0">{{ . }}</p>
+      <p class="mb-0">{{ . }}</p>
       {{ end }}
     </div>
+
     <div class="row">
       <div class="col-12">
-        <ul class="list-unstyled">
-          <!-- notice item -->
-          {{ range .Data.Pages }}
-          {{ .Render "notice" }}
+
+        <div class="mb-5">
+          <h3>Workshop Registration</h3>
+          <p>Please register for the TICI Workshop using the form below.</p>
+
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSd3BGeUz6WiXoJhGZs-GqVqRJ65IZXBPieqxBjPUFo7Lzn7jQ/viewform"
+             target="_blank"
+             class="btn btn-primary">
+             Register for the Workshop
+          </a>
+        </div>
+
+        <div class="mb-5">
+          <h3>Location</h3>
+          <p class="mb-2">232 Wisenbaker Engineering Building</p>
+          <p class="mb-2">Parking information: Polo Road Garage is the closest parking to the workshop location.</p>
+          <a href="https://maps.app.goo.gl/YPLRb4Tm7PJcrDa77" target="_blank" rel="noopener" class="btn btn-outline-primary">
+            Open in Google Maps
+          </a>
+        </div>
+
+        <div class="list-unstyled">
+          {{ if gt (len $workshops) 0 }}
+          {{ range $workshops.ByDate }}
+          <article class="row align-items-center py-4 border-top">
+            <div class="col-md-2 col-lg-1 mb-3 mb-md-0">
+              <div class="bg-primary text-white text-center py-3 px-2">
+                <div class="h2 mb-1 font-weight-bold">{{ .Date.Format "02" }}</div>
+                <div class="h6 mb-0">{{ .Date.Format "Jan, 2006" }}</div>
+              </div>
+            </div>
+            <div class="col-md-7 col-lg-8 mb-3 mb-md-0">
+              <h3 class="mb-3"><a href="{{ .RelPermalink }}" class="text-dark">{{ .Title }}</a></h3>
+              <p class="mb-0">{{ .Plain | truncate 220 }}</p>
+            </div>
+            <div class="col-md-3 text-md-right">
+              <a href="{{ .RelPermalink }}" class="btn btn-primary">Read More</a>
+            </div>
+          </article>
           {{ end }}
-        </ul>
+          {{ else }}
+            <div class="mb-0">
+              <p class="mb-0">No workshop sessions are published yet.</p>
+            </div>
+          {{ end }}
+        </div>
+
       </div>
     </div>
+
   </div>
 </section>
-<!-- /notice -->
 
 {{ end }}
