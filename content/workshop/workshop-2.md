@@ -1,25 +1,22 @@
 ---
-title: "March 25, 2025 Workshop"
-date: 2025-03-25T15:27:17-05:00
-bg_image: "images/backgrounds/lab.jpg"
+title: "March 20, 2026 Workshop"
+date: 2026-03-20T09:00:00-05:00
 draft: false
 ---
 
-### March 25, 2025
+### March 20, 2026
 
-| Time              | Event/Speaker                                                                                         | Details                                                                                     |
-|-------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| 8:00 – 8:30 AM     | Continental Breakfast                                                                                  | Zachry Chevron Room 297                                                                     |
-| 8:30 – 8:45 AM     | Welcome and Introduction                                                                               | Narasimha Reddy, HOD, Dept. of ECE                                                          |
+| Time              | Event/Speaker | Details |
+|-------------------|--------------|--------|
+| 8:15 – 8:45 AM | Breakfast | |
+| 8:45 – 9:00 AM | Remarks | Arum Han, Associate Dean for Research |
 
-### AI/ML & Compute Systems
+### Autonomy
 
-| Time              | Event/Speaker                                                                                         | Details                                                                                     |
-|-------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| 8:45 – 9:15 AM     | Joseph Boccuzzi                                                                                        | NVIDIA                                                                                      |
-| 9:30 – 10:00 AM    | Ishan Misra                                                                                            | Meta                                                                                        |
-| 10:15 – 10:45 AM   | Dileep Kalathil                                                                                        | TAMU                                                                                        |
-| 10:45 – 11:00 AM   | Break                                                                                                  |                                                                                             |
-| 11:00 – 11:45 AM   | Panel: Beyond Generation: Is Reasoning the Next Leap in AI? Moderator: Dileep Kalathil               | Panelists: Stefan Adalbjornsson, Joseph Boccuzzi, Shuiwang Ji, Tianbao Yang, Aftab Hussain |
-| 11:45 – 12:30 PM   | Lunch Served in ZACH 297                                                                               |                                                                                             |
-| 12:30 PM           | Invited speakers head to RELLIS for tour                                                               |                                                                                             |
+| Time | Event/Speaker | Details |
+|------|---------------|--------|
+| 9:00 – 9:30 AM | Dong-Ki Kim | FieldAI |
+| 9:45 – 10:15 AM | Dylan Shell | Texas A&M University |
+| 10:30 – 11:00 AM | Yan Ling | NVIDIA |
+| 11:15 – 12:00 PM | Panel: Autonomy | Participants: Varun Murali, Dong-Ki Kim, Dylan Shell |
+| 12:00 – 1:00 PM | Closed-door lunch / Feedback Session | With participants |
