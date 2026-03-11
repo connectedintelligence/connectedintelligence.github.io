@@ -16,7 +16,7 @@ draft: false
 | Time | Event/Speaker | Details |
 |------|---------------|--------|
 | 9:00 – 9:30 AM | Dong-Ki Kim | FieldAI |
-| 9:45 – 10:15 AM | Dylan Shell | Texas A&M University |
+| 9:30 – 10:00 AM | Anton Netchayev | U.S. Army Corps of Engineers |
 | 10:30 – 11:00 AM | Yan Ling | NVIDIA |
-| 11:15 – 12:00 PM | Panel: Autonomy | Participants: Varun Murali, Dong-Ki Kim, Dylan Shell |
+| 11:00 – 11:45 PM | Panel: Autonomy | Participants: Varun Murali, Dong-Ki Kim, Anton Netchayev, Dylan Shell |
 | 12:00 – 1:00 PM | Closed-door lunch / Feedback Session | With participants |

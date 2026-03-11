@@ -8,8 +8,8 @@ draft: false
 
 | Time              | Event/Speaker                     | Details |
 |-------------------|-----------------------------------|--------|  
-| 8:15 – 8:45 AM     |                         |        | Breakfast 
-| 8:45 – 9:00 AM     | Dr. Narasimha Reddy               |  Welcome Address |
+| 8:15 – 8:45 AM     |                                  | Breakfast 
+| 8:45 – 9:00 AM     | Dr. Narasimha Reddy              |  Welcome Address |
 
 ### Artificial Intelligence
 
