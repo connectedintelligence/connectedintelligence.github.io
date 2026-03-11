@@ -8,8 +8,8 @@ draft: false
 
 | Time              | Event/Speaker | Details |
 |-------------------|--------------|--------|
-| 8:15 – 8:45 AM | Breakfast | |
-| 8:45 – 9:00 AM | Remarks | Arum Han, Associate Dean for Research |
+| 8:15 – 8:45 AM | | Breakfast |
+| 8:45 – 9:00 AM | Arum Han, Associate Dean for Research | Remarks |
 
 ### Autonomy
 
