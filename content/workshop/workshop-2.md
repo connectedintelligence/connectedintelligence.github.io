@@ -18,5 +18,6 @@ draft: false
 | 9:00 – 9:30 AM | Dong-Ki Kim | FieldAI |
 | 9:30 – 10:00 AM | Anton Netchayev | U.S. Army Corps of Engineers |
 | 10:30 – 11:00 AM | Yan Ling | NVIDIA |
-| 11:00 – 11:45 PM | Panel: Autonomy | Participants: Varun Murali, Dong-Ki Kim, Anton Netchayev, Dylan Shell |
-| 12:00 – 1:00 PM | Closed-door lunch / Feedback Session | With participants |
+| 11.00 - 11.30 AM | Varun Murali | TAMU |
+| 11:30 - 12.15 PM | Panel: Autonomy | Participants: Varun Murali, Dong-Ki Kim, Anton Netchayev, Dylan Shell |
+| 12:15 – 1:00 PM | Closed-door lunch / Feedback Session | With participants |
