@@ -15,9 +15,9 @@ draft: false
 
 | Time             | Event/Speaker | Details |
 |------------------|--------------|--------|
-| 9:00 – 9:30 AM   | Zhiwen Fan   | TAMU |
-| 9:45 – 10:15 AM  | Joseph Soriaga | Qualcomm |
-| 10:30 – 11:00 AM | Manling Li | Amazon Scholar / Northwestern |
+| 9:00 – 9:30 AM   | Zhiwen Fan , TAMU |    |
+| 9:45 – 10:15 AM  | Joseph Soriaga, Qualcomm |         |
+| 10:30 – 11:00 AM | Manling Li | Amazon Scholar, Northwestern |            |
 | 11:00 – 11:45 AM | Panel: Artificial Intelligence | Participants: Zhiwen Fan, Joseph Soriaga, Manling Li, Dileep Kalathil |
 | 12:00 – 2:00 PM  | Lunch Served / Poster Presentations | Wisenbaker 232 / Wisenbaker Lobby |
 
@@ -25,9 +25,9 @@ draft: false
 
 | Time             | Event/Speaker | Details |
 |------------------|--------------|--------|
-| 2:00 – 2:30 PM   | Balaji Raghothaman | Keysight Technologies |
-| 2:45 – 3:30 PM   | Stefan Adalbjornsson | Ericsson |
-| 3:45 – 4:15 PM   | Milap Majumdar | AT&T |
+| 2:00 – 2:30 PM   | Balaji Raghothaman, Keysight Technologies |    |
+| 2:45 – 3:30 PM   | Stefan Adalbjornsson, Ericsson | Integrated Sensing and Communication |
+| 3:45 – 4:15 PM   | Milap Majumdar, AT&T | Connectivity in a Ubiquitously Intelligent World |
 | 4:15 – 5:00 PM   | Panel: 6G Technologies | Participants: Balaji Raghothaman, Stefan Adalbjornsson, Milap Majumdar, Srinivas Shakkottai |
 
 ### Workshop Dinner
