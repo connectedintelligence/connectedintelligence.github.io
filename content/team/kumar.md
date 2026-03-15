@@ -8,6 +8,6 @@ research:
   - "Stochastic systems and control"
   - "AI-native wireless networks"
   - "Machine learning theory"
-seniority: 6
+seniority: 13
 ---
 

@@ -7,6 +7,6 @@ bio: "Professor, Computer Science and Engineering"
 research:
   - "Machine learning, Artificial intelligence"
   - "Language models and Agents"
-seniority: 14
+seniority: 11
 ---
 

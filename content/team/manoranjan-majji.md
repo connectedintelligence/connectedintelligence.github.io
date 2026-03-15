@@ -8,5 +8,5 @@ bio: "Professor, Aerospace Engineering, Associate Department Head for Space Engi
 research:
   - "Structural systems, computational vision"
   - "Astronautics, dynamical systems, aerospace robotics"
-seniority: 19
+seniority: 15
 ---

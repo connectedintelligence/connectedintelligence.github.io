@@ -7,6 +7,6 @@ bio: "Professor, Computer Science and Engineering"
 research:
   - "Motion planning"
   - "Autonomous robots, Computational geometry"
-seniority: 15
+seniority: 16
 ---
 

@@ -8,5 +8,5 @@ bio: "Assistant Professor, Electrical and Computer Engineering."
 research:
   - "Multi-modal learning, generative AI"
   - "Robotics, spatial computing"
-seniority: 22
+seniority: 7
 ---

@@ -7,6 +7,6 @@ bio: "Associate Professor, Electrical and Computer Engineering"
 research:
   - "Machine learning theory"
   - "Information theory, source coding"
-seniority: 17
+seniority: 21
 ---
 

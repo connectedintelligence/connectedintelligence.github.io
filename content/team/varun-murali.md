@@ -8,5 +8,5 @@ bio: "Assistant Professor, Electrical and Computer Engineering."
 research:
   - "Hierarchical semantic mapping for robotics"
   - "Perception-aware planning, tasking, and autonomy"
-seniority: 21
+seniority: 17
 ---

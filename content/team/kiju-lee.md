@@ -8,5 +8,5 @@ bio: "Associate Professor, Engineering Technology & Industrial Distribution and 
 research:
   - "Robotics, swarm intelligence"
   - "Human-robot interaction, novel mechanism design"
-seniority: 20
+seniority: 14
 ---

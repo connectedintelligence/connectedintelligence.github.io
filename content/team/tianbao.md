@@ -7,6 +7,6 @@ bio: "Professor, Computer Science and Engineering"
 research:
   - "Artificial intelligence"
   - "Optimization in Machine learning"
-seniority: 18
+seniority: 22
 ---
 

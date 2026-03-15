@@ -7,6 +7,6 @@ bio: "Professor, Electrical and Computer Engineering"
 research:
   - "Electromagnetics, antennas"
   - "Circuits"
-seniority: 10
+seniority: 6
 ---
 

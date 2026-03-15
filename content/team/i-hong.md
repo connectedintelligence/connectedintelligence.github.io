@@ -7,6 +7,6 @@ bio: "Professor, Electrical and Computer Engineering"
 research:
   - "Cyber-Physical Systems’ Security, Trust, and Resilience"
   - "MAC, AI-native wireless networks"
-seniority: 13
+seniority: 10
 ---
 

@@ -7,6 +7,6 @@ bio: "Associate Professor, Electrical and Computer Engineering"
 research:
   - "Reinforcement learning"
   - "Artificial intelligence"
-seniority: 5
+seniority: 12
 ---
 

@@ -7,6 +7,6 @@ bio: "Assistant Professor, Engineering Technology & Industrial Distribution"
 research:
   - "Cyber-Physical Systems’ Security, Trust, and Resilience"
   - "Autonomous, Collaborative and Human-in-the-Loop Complex Systems"
-seniority: 12
+seniority: 9
 ---
 
