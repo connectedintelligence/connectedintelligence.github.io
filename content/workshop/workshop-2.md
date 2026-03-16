@@ -15,7 +15,7 @@ draft: false
 
 | Time | Event/Speaker | Details |
 |------|---------------|--------|
-| 9:00 – 9:30 AM | Dong-Ki Kim, FieldAI |   |
+| 9:00 – 9:30 AM | Dong-Ki Kim, FieldAI |  Don't Run with Scissors: Making Pruned VLA Models Safe for Field Robots |
 | 9:30 – 10:00 AM | Anton Netchayev, U.S. Army Corps of Engineers |     |
 | 10:30 – 11:00 AM | Yan Wang, NVIDIA |     |
 | 11.00 - 11.30 AM | Varun Murali, TAMU |   |
