@@ -28,7 +28,7 @@ draft: false
 | 2:00 – 2:30 PM   | Balaji Raghothaman, Keysight Technologies |    |
 | 2:45 – 3:30 PM   | Stefan Adalbjornsson, Ericsson | Integrated Sensing and Communication |
 | 3:45 – 4:15 PM   | Milap Majmundar, AT&T | Connectivity in a Ubiquitously Intelligent World |
-| 4:15 – 5:00 PM   | Panel: 6G Technologies | Participants: Balaji Raghothaman, Stefan Adalbjornsson, Milap Majumdar, Srinivas Shakkottai |
+| 4:15 – 5:00 PM   | Panel: 6G Technologies | Participants: Balaji Raghothaman, Stefan Adalbjornsson, Milap Majmundar, Srinivas Shakkottai |
 
 ### Workshop Dinner
 
