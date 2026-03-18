@@ -15,7 +15,7 @@ draft: false
 
 | Time             | Event/Speaker | Details |
 |------------------|--------------|--------|
-| 9:00 – 9:30 AM   | Zhiwen Fan , TAMU | World Modeling from Multimodal Physical Data   |
+| 9:00 – 9:30 AM   | Zhiwen Fan, TAMU | World Modeling from Multimodal Physical Data   |
 | 9:45 – 10:15 AM  | Joseph Soriaga, Qualcomm |  Agents on the Edge       |
 | 10:30 – 11:00 AM | Manling Li, Amazon Scholar, Northwestern | Multimodal Reasoning Intelligence |
 | 11:00 – 11:45 AM | Panel: Artificial Intelligence | Participants: Zhiwen Fan, Joseph Soriaga, Manling Li, Dileep Kalathil |
