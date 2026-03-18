@@ -15,8 +15,8 @@ draft: false
 
 | Time | Event/Speaker | Details |
 |------|---------------|--------|
-| 9:00 – 9:30 AM | Dong-Ki Kim, FieldAI |  Don't Run with Scissors: Making Pruned VLA Models Safe for Field Robots |
-| 9:30 – 10:00 AM | Anton Netchayev, U.S. Army Corps of Engineers | ERDC Robotics and Autonomous Systems    |
+| 9:00 – 9:30 AM   | Dong-Ki Kim, FieldAI |  Don't Run with Scissors: Making Pruned VLA Models Safe for Field Robots |
+| 9:30 – 10:00 AM  | Anton Netchayev, U.S. Army Corps of Engineers | ERDC Robotics and Autonomous Systems    |
 | 10:30 – 11:00 AM | Yan Wang, NVIDIA |  Alpamayo 1: Advancing End-To-End Autonomous Driving With Reasoning Vision-Language-Action Models   |
 | 11.00 - 11.30 AM | Varun Murali, TAMU | Towards open-world task and motion planning in unstructured environments   |
 | 11:30 - 12.15 PM | Panel: Autonomy | Participants: Varun Murali, Dong-Ki Kim, Anton Netchayev, Dylan Shell |

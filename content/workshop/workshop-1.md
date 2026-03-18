@@ -25,7 +25,7 @@ draft: false
 
 | Time             | Event/Speaker | Details |
 |------------------|--------------|--------|
-| 2:00 – 2:30 PM   | Balaji Raghothaman, Keysight Technologies |    |
+| 2:00 – 2:30 PM   | Balaji Raghothaman, Keysight Technologies |  Emerging Role of Digital Twins in Telecommunications  |
 | 2:45 – 3:30 PM   | Stefan Adalbjornsson, Ericsson | Integrated Sensing and Communication in Telecom Infrastructure|
 | 3:45 – 4:15 PM   | Milap Majmundar, AT&T | Connectivity in a Ubiquitously Intelligent World |
 | 4:15 – 5:00 PM   | Panel: 6G Technologies | Participants: Balaji Raghothaman, Stefan Adalbjornsson, Milap Majmundar, Srinivas Shakkottai |
