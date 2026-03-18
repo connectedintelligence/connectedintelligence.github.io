@@ -9,16 +9,18 @@ draft: false
 | Time              | Event/Speaker                     | Details |
 |-------------------|-----------------------------------|--------|  
 | 8:15 – 8:45 AM     |                                  | Breakfast 
-| 8:45 – 9:00 AM     | Dr. Narasimha Reddy              |  Welcome Address |
+| 8:45 – 9:00 AM     | Narasimha Reddy              |  Welcome Address |
+| 9:00 - 9:15 AM     | Srinivas Shakkottai          | Introduction to the Connected Intelligence Initiative|
 
 ### Artificial Intelligence
 
 | Time             | Event/Speaker | Details |
 |------------------|--------------|--------|
-| 9:00 – 9:30 AM   | Zhiwen Fan, TAMU | World Modeling from Multimodal Physical Data   |
+| 9:15 – 9:45 AM   | Zhiwen Fan, TAMU | World Modeling from Multimodal Physical Data   |
 | 9:45 – 10:15 AM  | Joseph Soriaga, Qualcomm |  Agents on the Edge       |
 | 10:30 – 11:00 AM | Manling Li, Amazon Scholar, Northwestern | Multimodal Reasoning Intelligence |
 | 11:00 – 11:45 AM | Panel: Artificial Intelligence | Participants: Zhiwen Fan, Joseph Soriaga, Manling Li, Dileep Kalathil |
+|11:45 AM - 12:00 PM| Photo shoot in the quad |
 | 12:00 – 2:00 PM  | Lunch Served / Poster Presentations | Wisenbaker 232 / Wisenbaker Lobby |
 
 ### Connectivity
@@ -34,4 +36,4 @@ draft: false
 
 | Time | Event | Details |
 |------|------|--------|
-| 6:00 PM | Workshop Dinner | Casa Mangiare |
+| 6:30 PM | Workshop Dinner | Casa Mangiare |
